@@ -177,9 +177,9 @@ def show_property_basic_info(prop_name):
                 unsafe_allow_html=True
             )
 # load cosine matrices
-cosine_sim1 = pickle.load(open("streamlit\models\cosine_sim1.pkl",'rb'))
-cosine_sim2 = pickle.load(open("streamlit\models\cosine_sim2.pkl",'rb'))
-cosine_sim3 = pickle.load(open("streamlit\models\cosine_sim3.pkl",'rb'))
+cosine_sim1 = pickle.load(open(BASE_DIR/"models/cosine_sim1.pkl",'rb'))
+cosine_sim2 = pickle.load(open(BASE_DIR/"models/cosine_sim2.pkl",'rb'))
+cosine_sim3 = pickle.load(open(BASE_DIR/"models/cosine_sim3.pkl",'rb'))
 
 
 def recommend_properties_with_scores(property_name, top_n=5):

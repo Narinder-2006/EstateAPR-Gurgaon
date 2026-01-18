@@ -36,7 +36,7 @@ with col2:
     st.image("https://cdn.shopify.com/s/files/1/0278/7289/files/final_without_overlay_1024x1024.png?v=1518448244", use_container_width=True)
     st.markdown('</div>', unsafe_allow_html=True)
 
-with open("streamlit\models\df.pkl", "rb") as file:
+with open(BASE_DIR/"models/df.pkl", "rb") as file:
     df = pickle.load(file)
 st.markdown("---")
 st.subheader("Enter House Details")
