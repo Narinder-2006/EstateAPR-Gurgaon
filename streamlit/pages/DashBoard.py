@@ -32,7 +32,7 @@ st.markdown("""
 # Sector coordinates mapping
 import json
 
-with open("streamlit\datasets\sector_coordinates.json", "r") as f:
+with open("datasets\sector_coordinates.json", "r") as f:
     sector_coordinates = json.load(f)
 
 
@@ -42,7 +42,7 @@ with open("streamlit\datasets\sector_coordinates.json", "r") as f:
 # Sample data for demonstration
 
 
-    df = pd.read_csv('streamlit/datasets\concatenated_properties_for analyzation.csv')
+    df = pd.read_csv('datasets/concatenated_properties_for analyzation.csv')
 
 # Add coordinates to dataframe
 df['lat'] = df['sector'].map(lambda x: sector_coordinates.get(x, {}).get('lat'))
