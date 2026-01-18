@@ -66,7 +66,7 @@ st.title("🏡 Property Recommendations")
 st.markdown("---")
 
 # ---------------- Load Data ----------------
-location_df = pd.read_csv("datasets\Location_data.csv")
+location_df = pd.read_csv("streamlit\datasets\Location_data.csv")
 location_df.set_index("PropertyName", inplace=True)
 
 # ---------------- Inputs ----------------
@@ -176,9 +176,9 @@ def show_property_basic_info(prop_name):
                 unsafe_allow_html=True
             )
 # load cosine matrices
-cosine_sim1 = pickle.load(open("models\cosine_sim1.pkl",'rb'))
-cosine_sim2 = pickle.load(open("models\cosine_sim2.pkl",'rb'))
-cosine_sim3 = pickle.load(open("models\cosine_sim3.pkl",'rb'))
+cosine_sim1 = pickle.load(open("streamlit\models\cosine_sim1.pkl",'rb'))
+cosine_sim2 = pickle.load(open("streamlit\models\cosine_sim2.pkl",'rb'))
+cosine_sim3 = pickle.load(open("streamlit\models\cosine_sim3.pkl",'rb'))
 
 
 def recommend_properties_with_scores(property_name, top_n=5):
@@ -256,7 +256,7 @@ if st.session_state.get("selected_property"):
     st.markdown('<div id="property-details"></div>', unsafe_allow_html=True)
     st.subheader("🏠 Selected Property")
     st.success(f"You selected: **{st.session_state['selected_property']}**")
-    property_detail_df = pd.read_csv("datasets\property_detail.csv")
+    property_detail_df = pd.read_csv("streamlit\datasets\property_detail.csv")
     property_detail_df.set_index("PropertyName", inplace=True)
     show_property_basic_info(st.session_state["selected_property"])
     st.markdown("---")

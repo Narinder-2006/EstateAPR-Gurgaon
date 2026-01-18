@@ -35,7 +35,7 @@ with col2:
     st.image("https://cdn.shopify.com/s/files/1/0278/7289/files/final_without_overlay_1024x1024.png?v=1518448244", use_container_width=True)
     st.markdown('</div>', unsafe_allow_html=True)
 
-with open("models\df.pkl", "rb") as file:
+with open("streamlit\models\df.pkl", "rb") as file:
     df = pickle.load(file)
 st.markdown("---")
 st.subheader("Enter House Details")
@@ -102,7 +102,7 @@ if button:
     
     with st.spinner("🔍 Calculating house price..."):
         time.sleep(1) 
-        with open("models\lightgbm_price_pipeline.pkl", "rb") as file:
+        with open("streamlit\models\lightgbm_price_pipeline.pkl", "rb") as file:
             model = pickle.load(file)
 
         prediction = model.predict(input_df)[0]
