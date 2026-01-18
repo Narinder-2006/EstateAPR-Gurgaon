@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import numpy as np
 import pickle
-
+from config import BASE_DIR
 # Page configuration
 st.set_page_config(
     page_title="Gurgaon Real Estate Analytics",
@@ -32,7 +32,7 @@ st.markdown("""
 # Sector coordinates mapping
 import json
 
-with open("datasets/sector_coordinates.json", "r") as f:
+with open(BASE_DIR /"datasets"/"sector_coordinates.json", "r") as f:
     sector_coordinates = json.load(f)
 
 
@@ -42,7 +42,7 @@ with open("datasets/sector_coordinates.json", "r") as f:
 # Sample data for demonstration
 
 
-    df = pd.read_csv('datasets/concatenated_properties_for analyzation.csv')
+    df = pd.read_csv(BASE_DIR /'datasets'/'concatenated_properties_for analyzation.csv')
 
 # Add coordinates to dataframe
 df['lat'] = df['sector'].map(lambda x: sector_coordinates.get(x, {}).get('lat'))
