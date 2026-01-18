@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import pickle
+from config import BASE_DIR
 # ---------------- Page Config ----------------
 st.set_page_config(
     page_title="Recommendation of Properties",
@@ -66,7 +67,7 @@ st.title("🏡 Property Recommendations")
 st.markdown("---")
 
 # ---------------- Load Data ----------------
-location_df = pd.read_csv("streamlit\datasets\Location_data.csv")
+location_df = pd.read_csv(BASE_DIR/"datasets"/"Location_data.csv")
 location_df.set_index("PropertyName", inplace=True)
 
 # ---------------- Inputs ----------------
@@ -256,7 +257,7 @@ if st.session_state.get("selected_property"):
     st.markdown('<div id="property-details"></div>', unsafe_allow_html=True)
     st.subheader("🏠 Selected Property")
     st.success(f"You selected: **{st.session_state['selected_property']}**")
-    property_detail_df = pd.read_csv("streamlit\datasets\property_detail.csv")
+    property_detail_df = pd.read_csv(BASE_DIR/"datasets"/"property_detail.csv")
     property_detail_df.set_index("PropertyName", inplace=True)
     show_property_basic_info(st.session_state["selected_property"])
     st.markdown("---")

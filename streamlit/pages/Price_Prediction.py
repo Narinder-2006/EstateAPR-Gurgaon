@@ -3,6 +3,7 @@ import pandas as pd
 import pickle
 import numpy as np
 import time
+from config import BASE_DIR
 st.set_page_config(
     page_title="Predict Property Price",
     page_icon="🏠",
@@ -102,7 +103,7 @@ if button:
     
     with st.spinner("🔍 Calculating house price..."):
         time.sleep(1) 
-        with open("streamlit\models\lightgbm_price_pipeline.pkl", "rb") as file:
+        with open(BASE_DIR /"models"/"lightgbm_price_pipeline.pkl", "rb") as file:
             model = pickle.load(file)
 
         prediction = model.predict(input_df)[0]
