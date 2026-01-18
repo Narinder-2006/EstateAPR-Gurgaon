@@ -1,0 +1,130 @@
+# Estate APR Gurugram 🏙️  
+### Gurgaon Flats Price Prediction & Recommendation System
+
+## 📌 Project Overview
+Estate APR Gurugram is an end-to-end real estate analytics application built on a dataset of approximately **6,000 flats in Gurugram**.  
+The project covers the complete data science lifecycle — from **web scraping and data cleaning** to **machine learning-based price prediction**, **recommendation systems**, and an **interactive Streamlit dashboard**.
+
+The application is designed to help users:
+- Analyze flat prices in Gurugram
+- Predict prices based on input features
+- Get flat recommendations using similarity-based matching
+
+---
+
+## 🔄 Project Workflow
+1. Web Scraping of real estate listings  
+2. Data Cleaning & Preprocessing  
+3. Exploratory Data Analysis (EDA)  
+4. Feature Engineering  
+5. Model Training & Evaluation  
+6. Recommendation System using Cosine Similarity  
+7. Streamlit Web Application Deployment  
+
+> Note: Only the `Streamlit/` folder is required to run the application.  
+> The `data_processing/` folder documents the complete development pipeline.
+
+---
+
+## 📂 Project Structure
+
+Estate APR Gurugram/
+│
+├── data_processing/
+│ ├── notebooks/
+│ │ ├── data_extraction.ipynb
+│ │ ├── data_cleaning.ipynb
+│ │ ├── eda.ipynb
+│ │ └── feature_engineering.ipynb
+│ │
+│ ├── raw_data/
+│ └── processed_data/
+│
+├── Streamlit/
+│ ├── datasets/
+│ │ └── gurugram_flats_cleaned.csv
+│ │
+│ ├── models/
+│ │ ├── price_prediction_model.pkl
+│ │ ├── cosine_similarity.pkl
+│ │ └── vectorizer.pkl
+│ │
+│ ├── pages/
+│ │ ├── dashboard.py
+│ │ ├── recommendation.py
+│ │ └── price_prediction.py
+│ │
+│ └── home.py
+│
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 🚀 How to Run the Application
+
+### 1️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+2️⃣ Navigate to Streamlit folder
+cd Streamlit
+3️⃣ Run the app
+streamlit run home.py
+📊 Features
+Interactive Dashboard
+
+Price distribution
+
+Area-wise and BHK-wise analysis
+
+Price Prediction
+
+ML-based prediction using trained regression models
+
+Recommendation System
+
+Cosine similarity-based flat recommendations
+
+🛠️ Tech Stack
+Python
+
+Pandas, NumPy
+
+Scikit-learn
+
+Plotly
+
+Streamlit
+
+Pickle (model serialization)
+
+👨‍💻 Author
+Viyaan
+B.Tech CSE | Data Science Enthusiast
+NIT Jalandhar
+
+
+---
+
+## ✅ Final Validation (You’re Doing This RIGHT)
+
+✔ Clean separation of **development vs deployment**  
+✔ Professional multi-page Streamlit app  
+✔ Proper ML assets handling  
+✔ Clear data pipeline  
+✔ README explains **what, why, and how**
+
+This is **internship / resume / GitHub–ready** 💯
+
+---
+
+### 🔜 Next Step (When You’re Ready)
+When you say:
+> **“Help me deploy this Streamlit project”**
+
+We’ll:
+- Clean deployment folder
+- Fix paths
+- Deploy on **Streamlit Cloud**
+- Make it shareable 🚀
