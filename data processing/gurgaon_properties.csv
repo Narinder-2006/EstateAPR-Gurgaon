@@ -1,0 +1,2457 @@
+property_type,society,sector,price,price_per_sqft,bedRoom,bathroom,balcony,floorNum,agePossession,built_up_area,study_room,servant_room,store_room,pooja_room,others,furnishing_type,luxury_score
+flat,,,16.91,23999.43,0,0,0,0.0,New Property,7046.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.48,12384.94,0,0,0,0.0,New Property,1195.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.37,29246.03,0,0,0,0.0,New Property,2520.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.68,6687.9,0,0,0,0.0,New Property,2512.0,0,0,0,0,0,Unfurnished,15
+flat,,,18.1,24896.84,0,0,0,0.0,New Property,7270.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.71,31581.86,0,0,0,0.0,New Property,1808.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.46,13022.76,0,0,0,0.0,New Property,1889.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.9,13111.11,0,0,0,0.0,New Property,4500.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.81,28100.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.44,13469.07,0,0,0,0.0,New Property,2554.0,0,0,0,0,0,Unfurnished,15
+flat,,,13.49,16253.01,0,0,0,0.0,New Property,8300.0,0,0,0,0,0,Unfurnished,15
+flat,,,9.96,60510.33,0,0,0,0.0,New Property,1646.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.75,15492.96,0,0,0,0.0,New Property,1775.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.35,12303.66,0,0,0,0.0,New Property,1910.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.4,9728.98,0,0,0,0.0,New Property,1439.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.87,29833.68,0,0,0,0.0,New Property,962.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.47,17605.13,0,0,0,0.0,New Property,1403.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.32,18000.0,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.76,13745.31,0,0,0,0.0,New Property,3463.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.9,12666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.09,13062.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.85,28500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.31,23944.44,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.5,19858.78,0,0,0,0.0,New Property,2266.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.6,26000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.39,20045.66,0,0,0,0.0,New Property,2190.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,13966.48,0,0,0,0.0,New Property,1611.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.42,23789.02,0,0,0,0.0,New Property,1858.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.67,16181.82,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.7,13533.83,0,0,0,0.0,New Property,1995.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.56,22840.41,0,0,0,0.0,New Property,683.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.92,8369.66,0,0,0,0.0,New Property,2294.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.7,29917.25,0,0,0,0.0,New Property,1571.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.6,25568.18,0,0,0,0.0,New Property,1408.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.7,16564.42,0,0,0,0.0,New Property,1630.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.62,20111.11,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.32,19000.82,0,0,0,0.0,New Property,1221.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.77,17952.38,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,8780.49,0,0,0,0.0,New Property,2050.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.2,11100.83,0,0,0,0.0,New Property,1081.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.85,14984.23,0,0,0,0.0,New Property,1902.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.55,18214.29,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.63,9261.36,0,0,0,0.0,New Property,1760.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.95,12225.71,0,0,0,0.0,New Property,1595.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.84,15462.18,0,0,0,0.0,New Property,1190.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.06,12980.47,0,0,0,0.0,New Property,1587.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.86,15470.94,0,0,0,0.0,New Property,2495.0,0,0,0,0,0,Unfurnished,15
+flat,,,10.0,25316.46,0,0,0,0.0,New Property,3950.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.13,14812.24,0,0,0,0.0,New Property,1438.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.0,40439.05,0,0,0,0.0,New Property,1731.0,0,0,0,0,0,Unfurnished,15
+flat,,,8.13,43827.49,0,0,0,0.0,New Property,1855.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.77,19715.3,0,0,0,0.0,New Property,1405.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.0,11428.57,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.97,12709.68,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.43,12941.18,0,0,0,0.0,New Property,1105.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.44,10539.96,0,0,0,0.0,New Property,2315.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.06,19994.34,0,0,0,0.0,New Property,3531.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.19,27547.67,0,0,0,0.0,New Property,1521.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.64,18992.81,0,0,0,0.0,New Property,1390.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.04,18470.95,0,0,0,0.0,New Property,3270.0,0,0,0,0,0,Unfurnished,15
+flat,,,12.23,22350.15,0,0,0,0.0,New Property,5472.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.23,23071.43,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.59,13718.72,0,0,0,0.0,New Property,1159.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.62,30166.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.75,14583.33,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.75,10937.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.31,26937.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.68,25860.86,0,0,0,0.0,New Property,1423.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.43,18731.5,0,0,0,0.0,New Property,2365.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.49,14362.14,0,0,0,0.0,New Property,2430.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.62,13862.85,0,0,0,0.0,New Property,4054.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.3,31323.88,0,0,0,0.0,New Property,1692.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.29,12497.52,0,0,0,0.0,New Property,5033.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.89,24083.33,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.7,17251.82,0,0,0,0.0,New Property,3304.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.9,12380.95,0,0,0,0.0,New Property,3150.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.55,15468.41,0,0,0,0.0,New Property,2295.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.7,11739.13,0,0,0,0.0,New Property,2300.0,0,0,0,0,0,Unfurnished,15
+flat,,,9.41,22884.24,0,0,0,0.0,New Property,4112.0,0,0,0,0,0,Unfurnished,15
+flat,,,18.32,34500.94,0,0,0,0.0,New Property,5310.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.99,13442.31,0,0,0,0.0,New Property,5200.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,37313.43,0,0,0,0.0,New Property,1742.0,0,0,0,0,0,Unfurnished,15
+flat,,,17.0,77272.73,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Unfurnished,15
+flat,,,16.0,22707.92,0,0,0,0.0,New Property,7046.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.51,12326.53,0,0,0,0.0,New Property,1225.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.78,21407.41,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,11180.12,0,0,0,0.0,New Property,1610.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.14,15742.73,0,0,0,0.0,New Property,3265.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.67,26700.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,21.72,21494.31,0,0,0,0.0,New Property,10105.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,14.73,66083.45,0,0,0,0.0,New Property,2229.0,0,0,0,0,0,Unfurnished,15
+flat,,,9.48,24196.02,0,0,0,0.0,New Property,3918.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.49,24333.33,0,0,0,0.0,New Property,3900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.45,33935.24,0,0,0,0.0,New Property,1606.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.5,37500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,14166.67,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,21428.57,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,26927.78,0,0,0,0.0,New Property,817.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.55,20400.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.86,21500.0,0,0,0,0.0,New Property,400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,11.05,29994.57,0,0,0,0.0,New Property,3684.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,16666.67,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,12.8,42666.67,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.26,32987.22,0,0,0,0.0,New Property,2504.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.75,10542.17,0,0,0,0.0,New Property,1660.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,26250.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.81,35672.73,0,0,0,0.0,,2750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.8,18304.43,0,0,0,0.0,New Property,2076.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,20000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.5,15714.29,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.95,24006.91,0,0,0,0.0,New Property,2895.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,18518.52,0,0,0,0.0,,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.1,14186.05,0,0,0,0.0,New Property,4300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,18571.43,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.77,15811.09,0,0,0,0.0,New Property,487.0,0,0,0,0,0,Furnished,15
+flat,,,2.75,15277.78,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.15,27447.09,0,0,0,0.0,New Property,1512.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,10469.31,0,0,0,0.0,New Property,1385.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.8,15000.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.05,15250.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.6,30000.0,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.45,16481.48,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.71,8875.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.79,13984.96,0,0,0,0.0,New Property,1995.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,17.75,44375.0,0,0,0,0.0,New Property,4000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.49,19106.38,0,0,0,0.0,New Property,2350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.75,21929.82,0,0,0,0.0,New Property,3078.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,16000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.25,46394.89,0,0,0,0.0,New Property,3287.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,23076.92,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,19090.91,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.34,7613.64,0,0,0,0.0,New Property,1760.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,14403.29,0,0,0,0.0,New Property,2430.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,29545.45,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,16842.11,0,0,0,0.0,,950.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.55,13421.05,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,19523.81,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,15261.63,0,0,0,0.0,New Property,1376.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,14634.15,0,0,0,0.0,,2050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.76,18076.92,0,0,0,0.0,,2080.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.8,30625.0,0,0,0,0.0,,3200.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.75,15714.29,0,0,0,89.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.15,19263.16,0,0,0,0.0,,4750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.45,14471.54,0,0,0,0.0,,3075.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.51,8388.89,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.47,21880.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.95,21627.57,0,0,0,0.0,New Property,1364.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.68,12444.44,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.87,41048.95,0,0,0,0.0,,1430.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.58,38705.88,0,0,0,0.0,,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.95,18596.99,0,0,0,0.0,,2124.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.75,17441.86,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.93,40590.91,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.4,19451.81,0,0,0,0.0,New Property,2262.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.74,30268.2,0,0,0,0.0,New Property,1566.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,15373.35,0,0,0,0.0,,1366.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.9,21081.08,0,0,0,0.0,,1850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.05,14855.07,0,0,0,0.0,New Property,1380.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,16.8,49051.09,0,0,0,0.0,New Property,3425.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.53,35741.65,0,0,0,0.0,New Property,1827.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,13333.33,0,0,0,0.0,,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,21.0,43750.0,0,0,0,0.0,New Property,4800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.82,35000.0,0,0,0,0.0,New Property,2520.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.19,17520.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Furnished,15
+flat,,,3.57,16489.61,0,0,0,0.0,New Property,2165.0,0,0,0,0,0,Furnished,15
+flat,,,11.52,26978.92,0,0,0,0.0,New Property,4270.0,0,0,0,0,0,Furnished,15
+flat,,,6.3,21000.0,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.3,27741.94,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.75,10000.0,0,0,0,0.0,,750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,19512.2,0,0,0,0.0,New Property,1435.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.852,6085.71,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,14084.51,0,0,0,0.0,,1420.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.25,15420.56,0,0,0,0.0,New Property,5350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,12383.9,0,0,0,0.0,,646.0,0,0,0,0,0,Unfurnished,15
+flat,,,15.0,68181.82,0,0,0,0.0,,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.06,15484.36,0,0,0,0.0,,2622.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.2,14117.65,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,12403.1,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.92,17454.55,0,0,0,0.0,,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.0,32142.86,0,0,0,0.0,,2800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.75,19709.54,0,0,0,0.0,,2410.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.69,12435.61,0,0,0,0.0,,1359.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.7,12000.0,0,0,0,0.0,New Property,2250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.0,21857.92,0,0,0,0.0,,2745.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.57,10827.59,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.53,17936.69,0,0,0,0.0,New Property,853.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.6,24757.8,0,0,0,0.0,,1858.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,16883.12,0,0,0,0.0,New Property,1540.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.9,16919.74,0,0,0,0.0,,2305.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.86,20428.57,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.65,19761.37,0,0,0,0.0,New Property,1341.0,0,0,0,0,0,Furnished,15
+flat,,,3.0,17647.06,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.91,22342.86,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.49,16555.56,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,21000.0,0,0,0,0.0,,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,20312.5,0,0,0,0.0,,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.3,16746.41,0,0,0,0.0,New Property,3762.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.83,13465.78,0,0,0,0.0,,1359.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.4,44692.74,0,0,0,0.0,New Property,1432.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.44,22676.58,0,0,0,0.0,New Property,1076.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.86,18235.29,0,0,0,0.0,New Property,1020.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.29,9400.0,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Furnished,15
+flat,,,1.95,14716.98,0,0,0,0.0,New Property,1325.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.8,12000.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.95,13389.83,0,0,0,0.0,New Property,2950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,21.0,22105.26,0,0,0,0.0,New Property,9500.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.75,17968.75,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,11627.91,0,0,0,0.0,,645.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,13157.89,0,0,0,0.0,New Property,3800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,23076.92,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,11739.13,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.15,24970.96,0,0,0,0.0,New Property,861.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,16199.65,0,0,0,0.0,New Property,1142.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,12.31,68388.89,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,17948.72,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.0,15000.0,0,0,0,0.0,New Property,4000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.2,34576.27,0,0,0,0.0,New Property,2950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.715,5107.14,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,11111.11,0,0,0,0.0,New Property,540.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.32,10232.56,0,0,0,0.0,New Property,1290.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.48,9866.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Furnished,15
+flat,,,10.0,25641.03,0,0,0,0.0,,3900.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.52,12666.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,13.5,27000.0,0,0,0,0.0,New Property,5000.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.4,38989.17,0,0,0,0.0,New Property,1385.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,14438.17,0,0,0,0.0,New Property,1593.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.4,27200.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.85,25839.1,0,0,0,0.0,New Property,1877.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,17714.29,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Unfurnished,15
+flat,,,9.0,25000.0,0,0,0,0.0,New Property,3600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.94,21888.89,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,16250.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,16853.93,0,0,0,0.0,New Property,1780.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.3,37844.04,0,0,0,0.0,,872.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,12258.06,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.6,16960.0,0,0,0,0.0,New Property,6250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.62,27815.61,0,0,0,0.0,New Property,3818.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.8,16135.88,0,0,0,0.0,,2355.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,15697.92,0,0,0,0.0,,2357.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.9,20020.53,0,0,0,0.0,,1948.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.05,26061.78,0,0,0,0.0,New Property,1554.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.17,34750.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.35,16543.21,0,0,0,0.0,New Property,2025.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,15209.13,0,0,0,0.0,New Property,1578.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.75,14097.74,0,0,0,0.0,New Property,2660.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.1,14925.37,0,0,0,0.0,New Property,1407.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.35,19772.73,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,14736.84,0,0,0,0.0,New Property,2850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,9490.24,0,0,0,0.0,New Property,1844.0,0,0,0,0,0,Furnished,15
+flat,,,3.71,19608.88,0,0,0,0.0,New Property,1892.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.1,16030.53,0,0,0,0.0,,1310.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.48,14800.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.65,39117.65,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.85,20810.81,0,0,0,0.0,New Property,1850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.45,12328.77,0,0,0,0.0,New Property,365.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,19696.97,0,0,0,0.0,New Property,990.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.0,37500.0,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.99,22177.78,0,0,0,0.0,New Property,2250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,10580.08,0,0,0,0.0,New Property,2741.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.8,23899.37,0,0,0,0.0,New Property,1590.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.83,18788.5,0,0,0,0.0,New Property,974.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.07,24599.36,0,0,0,0.0,New Property,1248.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.28,10078.74,0,0,0,0.0,New Property,1270.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.06,20600.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,19117.65,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,14000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,16666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,12615.86,0,0,0,0.0,New Property,1942.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.0,23076.92,0,0,0,0.0,New Property,6500.0,0,0,0,0,0,Unfurnished,15
+flat,,,13.0,12380.95,0,0,0,0.0,New Property,10500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,17142.86,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.19,14828.57,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.87,12466.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,17272.73,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.5,34375.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.15,16374.71,0,0,0,0.0,New Property,1313.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.83,15099.01,0,0,0,0.0,New Property,1212.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,17283.95,0,0,0,0.0,New Property,2430.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,17787.42,0,0,0,0.0,,2305.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.25,15416.67,0,0,0,0.0,New Property,6000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.99,18687.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.15,16093.75,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,16.0,30769.23,0,0,0,0.0,New Property,5200.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.65,8684.21,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.75,19444.44,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Furnished,15
+flat,,,2.8,14583.33,0,0,0,0.0,New Property,1920.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.2,30088.5,0,0,0,0.0,New Property,3390.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,17500.0,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,20000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Furnished,15
+flat,,,9.0,33962.26,0,0,0,0.0,New Property,2650.0,0,0,0,0,0,Furnished,15
+flat,,,4.82,19802.79,0,0,0,0.0,,2434.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.85,8767.93,0,0,0,0.0,New Property,4391.0,0,0,0,0,0,Furnished,15
+flat,,,1.43,15888.89,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,14644.35,0,0,0,0.0,New Property,956.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.25,29705.32,0,0,0,0.0,New Property,2104.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.3,17368.42,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,11666.67,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Furnished,15
+flat,,,1.19,14875.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.8,14736.84,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Furnished,15
+flat,,,3.49,16619.05,0,0,0,0.0,,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,17890.77,0,0,0,0.0,New Property,1062.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,40909.09,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,17396.64,0,0,0,0.0,New Property,2443.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.4,28387.1,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.69,8688.95,0,0,0,0.0,New Property,1945.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.05,15000.0,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.05,20918.37,0,0,0,0.0,,980.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.55,15074.31,0,0,0,0.0,New Property,2355.0,0,0,0,0,0,Furnished,15
+flat,,,2.2,13333.33,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.55,20222.05,0,0,0,0.0,New Property,1261.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,13761.47,0,0,0,0.0,New Property,2180.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.63,5604.98,0,0,0,0.0,New Property,1124.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,1000.0,0,0,0,2.0,New Property,20000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.03,31339.56,0,0,0,0.0,,1605.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.5,16544.12,0,0,0,0.0,,2720.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,16129.03,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,12671.23,0,0,0,0.0,New Property,2920.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,10400.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Furnished,15
+flat,,,4.4,18667.8,0,0,0,0.0,New Property,2357.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,11893.43,0,0,0,0.0,New Property,2102.0,0,0,0,0,0,Unfurnished,15
+flat,,,15.5,21143.09,0,0,0,0.0,New Property,7331.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.25,21817.25,0,0,0,0.0,,1948.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,21379.31,0,0,0,0.0,,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.5,9900.99,0,0,0,0.0,New Property,505.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.65,22474.14,0,0,0,0.0,,2514.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,20491.8,0,0,0,0.0,,2440.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.19,17722.22,0,0,0,0.0,,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.4,15377.66,0,0,0,0.0,,2211.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,18433.18,0,0,0,0.0,,1085.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,25891.83,0,0,0,0.0,,869.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,15384.62,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Furnished,15
+flat,,,5.0,25000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.28,25000.0,0,0,0,0.0,,3712.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.1,16031.54,0,0,0,0.0,,3805.0,0,0,0,0,0,Furnished,15
+flat,,,3.4,27642.28,0,0,0,0.0,New Property,1230.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,11560.69,0,0,0,0.0,New Property,2595.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.8,15929.2,0,0,0,0.0,New Property,1130.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.98,9012.29,0,0,0,0.0,New Property,2197.0,0,0,0,0,0,Furnished,15
+flat,,,3.85,18680.25,0,0,0,0.0,New Property,2061.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,33333.33,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,,0
+flat,,,2.5,14285.71,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Furnished,15
+flat,,,4.8,20382.17,0,0,0,0.0,,2355.0,0,0,0,0,0,Unfurnished,15
+flat,,,8.67,34680.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.07,19633.03,0,0,0,0.0,New Property,545.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.52,8267.09,0,0,0,0.0,New Property,629.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.22,13396.83,0,0,0,0.0,New Property,3150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.2,17777.78,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,18461.54,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,18500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.15,31212.12,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,19600.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.4,20000.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Furnished,15
+flat,,,16.0,35164.84,0,0,0,0.0,New Property,4550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,14210.53,0,0,0,0.0,New Property,950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,20299.81,0,0,0,0.0,New Property,1601.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,15000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.95,14776.12,0,0,0,0.0,New Property,3350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.33,5116.28,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.78,17769.52,0,0,0,0.0,,2690.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.03,12971.25,0,0,0,0.0,New Property,1565.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,17727.27,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,17500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Furnished,15
+flat,,,19.0,555555.56,0,0,0,0.0,New Property,342.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.78,14957.98,0,0,0,0.0,New Property,1190.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.5,53125.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,17073.17,0,0,0,0.0,New Property,2050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,12500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.05,12812.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,15048.54,0,0,0,0.0,New Property,1030.0,0,0,0,0,0,Furnished,15
+flat,,,3.08,21241.38,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.0,31250.0,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,17537.02,0,0,0,0.0,New Property,1283.0,0,0,0,0,0,Furnished,15
+flat,,,7.0,31818.18,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.0,20231.21,0,0,0,0.0,New Property,3460.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.35,15581.4,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.28,18857.14,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Furnished,15
+flat,,,4.4,13580.25,0,0,0,0.0,New Property,3240.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,19764.96,0,0,0,0.0,New Property,1872.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.5,34693.88,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.74,17616.58,0,0,0,0.0,,2123.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.88,14193.55,0,0,0,0.0,New Property,620.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.8,19810.15,0,0,0,0.0,,2423.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,11333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,35000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,21250.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.72,7200.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,11.8,41769.91,0,0,0,0.0,New Property,2825.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.3,20000.0,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,15625.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,20000.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.2,42767.3,0,0,0,0.0,New Property,2385.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,12000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Furnished,15
+flat,,,4.0,19047.62,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.425,8872.65,0,0,0,0.0,New Property,479.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,10077.52,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,22500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.0,19354.84,0,0,0,0.0,New Property,3100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,14814.81,0,0,0,0.0,New Property,1890.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.75,19285.71,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,19375.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,12392.24,0,0,0,0.0,,1856.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.99,5739.13,0,0,0,0.0,,1725.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.0,23968.04,0,0,0,0.0,,3755.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.45,7679.18,0,0,0,0.0,New Property,586.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,9995.56,0,0,0,0.0,New Property,2251.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.18,11683.17,0,0,0,0.0,,1010.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,16433.85,0,0,0,0.0,,2434.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,13636.36,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.75,23009.2,0,0,0,0.0,New Property,2499.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,15000.0,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Furnished,15
+flat,,,2.2,11264.72,0,0,0,0.0,New Property,1953.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,19480.52,0,0,0,0.0,New Property,1155.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,15740.74,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,11994.95,0,0,0,0.0,New Property,1584.0,0,0,0,0,0,Furnished,15
+flat,,,0.7,10130.25,0,0,0,0.0,New Property,691.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.29,18277.78,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,10611.21,0,0,0,0.0,New Property,2356.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.52,13818.18,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,12.5,22301.52,0,0,0,0.0,New Property,5605.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,27272.73,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.59,17095.24,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.0,25714.29,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Furnished,15
+flat,,,16.0,40702.11,0,0,0,0.0,New Property,3931.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,14.5,65909.09,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.52,13160.17,0,0,0,0.0,New Property,1155.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,12345.68,0,0,0,0.0,New Property,2430.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,9132.42,0,0,0,0.0,New Property,1971.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,17307.69,0,0,0,0.0,New Property,2600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.4,36960.99,0,0,0,0.0,New Property,1461.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,15909.09,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Unfurnished,15
+flat,,,9.0,20224.72,0,0,0,0.0,New Property,4450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,38750.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.52,11463.05,0,0,0,0.0,New Property,1326.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.4,20118.88,0,0,0,0.0,New Property,2187.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.0,50000.0,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,14509.8,0,0,0,0.0,New Property,1275.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.98,18175.18,0,0,0,0.0,New Property,2740.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,20581.11,0,0,0,0.0,New Property,2065.0,0,0,0,0,0,Furnished,15
+flat,,,22.0,18333.33,0,0,0,0.0,New Property,12000.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.67,24450.95,0,0,0,0.0,New Property,683.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.88,13925.93,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,175000.0,0,0,0,0.0,New Property,200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.5,17808.22,0,0,0,0.0,New Property,3650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,12500.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Furnished,15
+flat,,,10.25,53664.92,0,0,0,0.0,New Property,1910.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.1,14000.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.35,18611.11,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.85,41914.89,0,0,0,0.0,New Property,2350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,15416.96,0,0,0,0.0,New Property,1427.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.58,20400.89,0,0,0,0.0,New Property,2245.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.9,33424.28,0,0,0,0.0,New Property,1466.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.05,15185.19,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.47,40597.83,0,0,0,0.0,New Property,1840.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.42,13988.44,0,0,0,0.0,New Property,1730.0,0,0,0,0,0,Furnished,15
+flat,,,9.0,36000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,18181.82,0,0,0,0.0,New Property,1595.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.55,37000.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.48,28102.56,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,12674.27,0,0,0,0.0,New Property,2367.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.43,17875.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,16423.36,0,0,0,0.0,New Property,1370.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.66,11448.28,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,32500.0,0,0,0,0.0,New Property,200.0,0,0,0,0,0,Furnished,15
+flat,,,2.3,20814.48,0,0,0,0.0,New Property,1105.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.31,9290.78,0,0,0,0.0,New Property,1410.0,0,0,0,0,0,Unfurnished,15
+flat,,,19.0,50000.0,0,0,0,0.0,New Property,3800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.4,18333.33,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,28125.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.5,20312.5,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,20454.55,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.55,15937.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.67,46825.4,0,0,0,0.0,,1638.0,0,0,0,0,0,Furnished,15
+flat,,,1.1,15759.31,0,0,0,0.0,New Property,698.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.69,17546.36,0,0,0,0.0,New Property,2103.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.25,26250.0,0,0,0,0.0,,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.5,27272.73,0,0,0,0.0,New Property,2750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.75,43750.0,0,0,0,0.0,New Property,3600.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,26530.61,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,15846.99,0,0,0,0.0,New Property,1830.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,17777.78,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.1,9821.43,0,0,0,0.0,,1120.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.85,14264.71,0,0,0,0.0,New Property,3400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.55,15502.18,0,0,0,0.0,New Property,2290.0,0,0,0,0,0,Furnished,15
+flat,,,1.75,10000.0,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.3,19213.58,0,0,0,0.0,,2238.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.25,17105.26,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.51,8929.63,0,0,0,0.0,New Property,1691.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,10333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Furnished,15
+flat,,,7.5,25000.0,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,20717.13,0,0,0,0.0,New Property,1255.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.35,21363.64,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,28125.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.23,17026.88,0,0,0,0.0,New Property,1897.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.3,18333.33,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.9,23000.0,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.25,25000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.74,12649.57,0,0,0,0.0,New Property,585.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,11960.48,0,0,0,0.0,New Property,1923.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.3,11304.35,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.95,24875.0,0,0,0,0.0,New Property,4000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,10841.0,0,0,0,0.0,New Property,1522.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.51,25620.44,0,0,0,0.0,New Property,1370.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,16571.43,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.0,18731.6,0,0,0,0.0,New Property,3737.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,13333.33,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.52,16000.0,0,0,0,0.0,New Property,950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,10714.29,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Furnished,15
+flat,,,2.4,16551.72,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.626,10433.33,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.5,8682.71,0,0,0,0.0,New Property,4031.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,15116.28,0,0,0,0.0,New Property,1720.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,14519.06,0,0,0,0.0,New Property,1102.0,0,0,0,0,0,Furnished,15
+flat,,,1.99,8943.82,0,0,0,0.0,New Property,2225.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.6,16000.0,0,0,0,0.0,New Property,6000.0,0,0,0,0,0,Furnished,15
+flat,,,1.6,15065.91,0,0,0,0.0,New Property,1062.0,0,0,0,0,0,Furnished,15
+flat,,,1.86,37200.0,0,0,0,0.0,New Property,500.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,13055.75,0,0,0,0.0,New Property,1417.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,14534.88,0,0,0,0.0,New Property,1720.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.89,40127.39,0,0,0,0.0,New Property,471.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.9,8181.82,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,10294.12,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.45,11646.59,0,0,0,0.0,New Property,1245.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,8666.67,0,0,0,0.0,New Property,750.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.9,24375.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.95,13448.28,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.29,12411.92,0,0,0,0.0,New Property,1845.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,12903.23,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.96,12911.73,0,0,0,0.0,,1518.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.28,18285.71,0,0,0,0.0,,700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,14814.81,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.53,14979.28,0,0,0,0.0,New Property,1689.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.68,47290.64,0,0,0,0.0,New Property,1624.0,0,0,0,0,0,Furnished,15
+flat,,,1.75,12068.97,0,0,0,0.0,,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.59,13807.69,0,0,0,0.0,New Property,2600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.72,14400.0,0,0,0,0.0,New Property,500.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.75,21246.46,0,0,0,0.0,New Property,1765.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,17432.32,0,0,0,0.0,New Property,2438.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,11522.63,0,0,0,0.0,New Property,1215.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.4,19813.52,0,0,0,0.0,New Property,1716.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.32,13200.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,19792.94,0,0,0,0.0,New Property,1642.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,14970.06,0,0,0,0.0,,1503.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.58,13166.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,11.0,13750.0,0,0,0,0.0,New Property,8000.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.5,14285.71,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Furnished,15
+flat,,,2.85,15833.33,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.59,14388.89,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.25,13541.67,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.0,36452.0,0,0,0,0.0,New Property,1646.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.4,17391.3,0,0,0,0.0,New Property,1955.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,28.5,35625.0,0,0,0,0.0,New Property,8000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.15,26774.19,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,11.5,41071.43,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,13071.9,0,0,0,0.0,,1530.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,17054.26,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Furnished,15
+flat,,,3.25,21172.64,0,0,0,0.0,New Property,1535.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,11052.17,0,0,0,0.0,New Property,2262.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.4,20000.0,0,0,0,0.0,,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.35,19062.23,0,0,0,0.0,,2282.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,9259.26,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,11.0,27848.1,0,0,0,0.0,,3950.0,0,0,0,0,0,Furnished,15
+flat,,,2.6,19622.64,0,0,0,0.0,New Property,1325.0,0,0,0,0,0,Furnished,15
+flat,,,0.598,9271.32,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Unfurnished,15
+flat,,,9.25,29675.97,0,0,0,0.0,New Property,3117.0,0,0,0,0,0,Unfurnished,15
+flat,,,21.0,34710.74,0,0,0,0.0,New Property,6050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,12922.47,0,0,0,0.0,New Property,503.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.35,11637.93,0,0,0,0.0,New Property,1160.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,24000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,16000.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.0,16216.22,0,0,0,0.0,New Property,3700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.0,25899.28,0,0,0,0.0,New Property,3475.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,14772.73,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,16949.15,0,0,0,0.0,New Property,1121.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,20000.0,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.09,37703.7,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.0,333333.33,0,0,0,0.0,New Property,450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,18846.15,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.25,20833.33,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.6,27894.74,0,0,0,0.0,New Property,3800.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.15,19545.45,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.79,13769.23,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Furnished,15
+flat,,,5.5,36666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Furnished,15
+flat,,,1.76,14666.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,13803.68,0,0,0,0.0,New Property,1630.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,20000.0,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Furnished,15
+flat,,,2.7,15882.35,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.9,19164.62,0,0,0,0.0,New Property,2035.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.7,22500.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.53,25166.67,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.8,11666.67,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.0,35282.26,0,0,0,0.0,New Property,1984.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.66,13775.93,0,0,0,0.0,New Property,1205.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.55,17317.07,0,0,0,0.0,New Property,2050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,11482.78,0,0,0,0.0,New Property,2003.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.61,30170.16,0,0,0,0.0,New Property,1528.0,0,0,0,0,0,Unfurnished,15
+flat,,,10.0,32626.43,0,0,0,0.0,New Property,3065.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.28,16000.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.62,16618.71,0,0,0,0.0,New Property,2780.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,12186.38,0,0,0,0.0,New Property,1395.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,8024.69,0,0,0,0.0,New Property,2430.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,13012.62,0,0,0,0.0,New Property,1268.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,13.5,39130.43,0,0,0,0.0,New Property,3450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,14411.76,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,17901.23,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.55,11860.47,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.75,24409.04,0,0,0,0.0,New Property,1946.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.39,17842.11,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.8,24000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Furnished,15
+flat,,,10.0,36982.25,0,0,0,0.0,New Property,2704.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,17500.0,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,13043.48,0,0,0,0.0,New Property,2300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.35,11964.29,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,11250.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,17500.0,0,0,0,1.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.82,9647.06,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Furnished,15
+flat,,,4.3,20673.08,0,0,0,0.0,,2080.0,0,0,0,0,0,,0
+flat,,,5.99,19303.9,0,0,0,0.0,New Property,3103.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,34210.53,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.67,17800.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Unfurnished,15
+flat,,,8.5,17708.33,0,0,0,0.0,New Property,4800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.6,14229.25,0,0,0,0.0,New Property,2530.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.85,16493.06,0,0,0,0.0,New Property,1728.0,0,0,0,0,0,Furnished,15
+flat,,,4.18,19000.0,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.0,24242.42,0,0,0,0.0,,3300.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.48,8571.43,0,0,0,0.0,New Property,560.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.35,35638.3,0,0,0,0.0,,940.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,4285.71,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,11834.32,0,0,0,0.0,New Property,1690.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,19917.58,0,0,0,0.0,New Property,1456.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,15333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.0,200000.0,0,0,0,0.0,New Property,500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,110.0,100000.0,0,0,0,0.0,New Property,11000.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.77,18859.43,0,0,0,0.0,,1999.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.95,25483.87,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,9874.33,0,0,0,0.0,New Property,1671.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,20.0,52673.16,0,0,0,0.0,New Property,3797.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,11116.99,0,0,0,0.0,New Property,1889.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.58,15800.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,34000.0,0,0,0,0.0,New Property,250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,8354.43,0,0,0,0.0,New Property,1975.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,20821.61,0,0,0,0.0,New Property,1777.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.7,17088.61,0,0,0,0.0,New Property,1580.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,17523.36,0,0,0,0.0,New Property,1712.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,7045.45,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,15833.33,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.17,18869.57,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.25,2396.93,0,0,0,0.0,New Property,1043.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,17170.33,0,0,0,0.0,New Property,1456.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,13888.89,0,0,0,0.0,New Property,3240.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,12500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.847,9964.71,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.289,6450.89,0,0,0,0.0,New Property,448.0,0,0,0,0,0,Unfurnished,15
+flat,,,18.0,50000.0,0,0,0,0.0,New Property,3600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,24890.19,0,0,0,0.0,New Property,683.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,18257.26,0,0,0,0.0,New Property,1205.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,13052.21,0,0,0,0.0,New Property,1494.0,0,0,0,0,0,Furnished,15
+flat,,,0.58,9220.99,0,0,0,0.0,New Property,629.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,11935.48,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.55,21792.51,0,0,0,0.0,New Property,1629.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.6,30913.01,0,0,0,0.0,,2782.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,16528.93,0,0,0,0.0,New Property,605.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,14285.71,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,21666.67,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.76,24562.9,0,0,0,0.0,New Property,2345.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.7,10852.71,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.36,13485.71,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.05,18484.85,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,12.75,17000.0,0,0,0,0.0,New Property,7500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,20714.29,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Furnished,15
+flat,,,1.7,13600.0,0,0,0,0.0,,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.53,7510.64,0,0,0,0.0,New Property,4700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,13425.73,0,0,0,0.0,,2309.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.65,15883.38,0,0,0,0.0,,2298.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.2,18404.91,0,0,0,0.0,,2282.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,14444.44,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,14285.71,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.78,11142.86,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.2,17427.39,0,0,0,0.0,New Property,2410.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.36,6206.9,0,0,0,0.0,New Property,580.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.563,5118.18,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.21,55263.16,0,0,0,0.0,New Property,38.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.1,9538.46,0,0,0,0.0,New Property,3250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.26,9779.32,0,0,0,0.0,New Property,2311.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.1,11052.63,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.5,4761.9,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.9,7755.1,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,7551.02,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,10227.27,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.78,5777.78,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,11656.44,0,0,0,0.0,New Property,1630.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,23474.18,0,0,0,0.0,New Property,2343.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,25882.35,0,0,0,0.0,New Property,2125.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,9882.87,0,0,0,0.0,New Property,1366.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.4,4705.88,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.99,18738.23,0,0,0,0.0,New Property,1062.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,11331.44,0,0,0,0.0,New Property,1765.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.2,16603.77,0,0,0,2.0,New Property,1325.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.86,15194.35,0,0,0,0.0,New Property,566.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.5,10830.32,0,0,0,0.0,,1385.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,31250.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Furnished,15
+flat,,,1.6,12260.54,0,0,0,0.0,,1305.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,10332.1,0,0,0,0.0,New Property,1355.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,10924.37,0,0,0,0.0,,1190.0,0,0,0,0,0,Furnished,15
+flat,,,10.75,27215.19,0,0,0,0.0,New Property,3950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.48,48586.0,0,0,0,0.0,New Property,2157.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.15,13229.74,0,0,0,0.0,New Property,2381.0,0,0,0,0,0,Furnished,15
+flat,,,0.57,4750.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.25,15000.0,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.61,19120.88,0,0,0,0.0,New Property,1365.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.4,16983.02,0,0,0,0.0,New Property,2002.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,17358.49,0,0,0,0.0,New Property,1325.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,14800.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Unfurnished,15
+flat,,,9.6,27272.73,0,0,0,0.0,New Property,3520.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,18400.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.61,14184.78,0,0,0,0.0,New Property,1840.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,12195.12,0,0,0,0.0,New Property,1435.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,11724.14,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,28461.54,0,0,0,0.0,,1300.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.35,19705.88,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,18705.04,0,0,0,0.0,,695.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,17307.69,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.49,19607.14,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.52,10400.0,0,0,0,0.0,New Property,500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,6155.95,0,0,0,0.0,New Property,2193.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.59,14454.55,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,26066.35,0,0,0,0.0,New Property,1055.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.268,4837.55,0,0,0,0.0,New Property,554.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,11933.17,0,0,0,0.0,,2514.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,14423.08,0,0,0,0.0,New Property,1560.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.74,33881.34,0,0,0,0.0,,1399.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,13939.39,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.52,5777.78,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,11267.61,0,0,0,0.0,New Property,1775.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.2,23827.25,0,0,0,0.0,New Property,1343.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.16,24324.32,0,0,0,0.0,New Property,888.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.9,14074.07,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,5000.0,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.35,12002.04,0,0,0,0.0,New Property,1958.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,15000.0,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Furnished,15
+flat,,,1.55,10877.19,0,0,0,0.0,New Property,1425.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,14193.55,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,11666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.24,4392.16,0,0,0,0.0,New Property,5100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,15000000.0,0,0,0,0.0,New Property,1.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.6,8888.89,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,7407.41,0,0,0,0.0,New Property,3375.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,6511.63,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Furnished,15
+flat,,,1.35,9642.86,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.55,16612.38,0,0,0,0.0,New Property,1535.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,15446.22,0,0,0,0.0,New Property,874.0,0,0,0,0,0,Furnished,15
+flat,,,1.9,11091.65,0,0,0,0.0,New Property,1713.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,6875.0,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.59,14269.97,0,0,0,0.0,,1815.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.88,6518.52,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,17391.3,0,0,0,0.0,New Property,690.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,9689.92,0,0,0,0.0,New Property,1290.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,15384.62,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Unfurnished,15
+flat,,,8.0,27874.56,0,0,0,0.0,New Property,2870.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,18341.31,0,0,0,0.0,New Property,627.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,7666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Furnished,15
+flat,,,1.34,12558.58,0,0,0,0.0,New Property,1067.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.2,18107.0,0,0,0,0.0,New Property,1215.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,14775.41,0,0,0,0.0,New Property,1692.0,0,0,0,0,0,Furnished,15
+flat,,,4.5,21929.82,0,0,0,0.0,New Property,2052.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,11272.73,0,0,0,0.0,New Property,2750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,20952.38,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,10961.48,0,0,0,0.0,New Property,3193.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.45,19714.29,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,24444.44,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Furnished,15
+flat,,,1.44,105882.35,0,0,0,0.0,,136.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.99,8486.14,0,0,0,0.0,New Property,2345.0,0,0,0,0,0,Furnished,15
+flat,,,2.37,8464.29,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.8,4545.45,0,0,0,0.0,New Property,1760.0,0,0,0,0,0,Furnished,15
+flat,,,0.75,4350.35,0,0,0,0.0,New Property,1724.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,15806.45,0,0,0,0.0,,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,12081.06,0,0,0,0.0,,1283.0,0,0,0,0,0,Furnished,15
+flat,,,1.3,13000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.0,17142.86,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,18488.09,0,0,0,0.0,New Property,2434.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.8,29230.77,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.2,16284.99,0,0,0,0.0,New Property,1965.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.9,34605.15,0,0,0,0.0,,1127.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,12856.15,0,0,0,0.0,New Property,1439.0,0,0,0,0,0,Furnished,15
+flat,,,3.22,20125.0,0,0,0,0.0,,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,11044.18,0,0,0,0.0,New Property,1494.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.25,18844.22,0,0,0,0.0,New Property,2786.0,0,0,0,0,0,,0
+flat,,,2.1,10758.2,0,0,0,0.0,New Property,1952.0,0,0,0,0,0,,0
+flat,,,0.46,11057.69,0,0,0,0.0,New Property,416.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,8333.33,0,0,0,0.0,,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,9246.58,0,0,0,0.0,,1460.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,9252.41,0,0,0,0.0,New Property,2702.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,11235.96,0,0,0,0.0,New Property,979.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,19893.9,0,0,0,0.0,,754.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.24,13939.02,0,0,0,0.0,New Property,1607.0,0,0,0,0,0,Furnished,15
+flat,,,2.1,15384.62,0,0,0,0.0,New Property,1365.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,15486.73,0,0,0,0.0,New Property,1356.0,0,0,0,0,0,Furnished,15
+flat,,,1.89,13938.05,0,0,0,0.0,New Property,1356.0,0,0,0,0,0,Furnished,15
+flat,,,1.5,14563.11,0,0,0,0.0,New Property,1030.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,9313.73,0,0,0,0.0,New Property,2040.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,9787.23,0,0,0,0.0,New Property,2350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.46,8563.05,0,0,0,0.0,New Property,1705.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,8285.71,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,8943.09,0,0,0,0.0,New Property,1845.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.6,25227.75,0,0,0,0.0,New Property,1427.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.9,12893.98,0,0,0,0.0,New Property,698.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,6484.15,0,0,0,0.0,New Property,2082.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,6428.57,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,8525.58,0,0,0,0.0,New Property,997.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.53,4884.79,0,0,0,0.0,New Property,1085.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.1,7333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.01,6755.85,0,0,0,0.0,New Property,1495.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.64,11518.99,0,0,0,0.0,New Property,3160.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.6,12413.79,0,0,0,0.0,New Property,2900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.95,15998.38,0,0,0,0.0,,2469.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.45,14331.21,0,0,0,0.0,New Property,314.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.76,13174.22,0,0,0,0.0,,2095.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,9889.24,0,0,0,0.0,,1264.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.25,17247.04,0,0,0,0.0,New Property,3044.0,0,0,0,0,0,Furnished,15
+flat,,,5.0,19841.27,0,0,0,0.0,New Property,2520.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,9529.86,0,0,0,0.0,New Property,2361.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.5,23224.04,0,0,0,0.0,,3660.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.24,3692.31,0,0,0,0.0,New Property,650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,13251.78,0,0,0,0.0,,981.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.6,9118.54,0,0,0,0.0,New Property,658.0,0,0,0,0,0,Unfurnished,15
+flat,,,11.0,16176.47,0,0,0,0.0,New Property,6800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.48,13971.83,0,0,0,0.0,New Property,1775.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,16000.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,13333.33,0,0,0,0.0,,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,16081.87,0,0,0,0.0,New Property,1368.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.9,7074.19,0,0,0,0.0,New Property,5513.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.9,15795.87,0,0,0,0.0,New Property,2469.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.85,19763.86,0,0,0,0.0,,1948.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.82,15969.9,0,0,0,0.0,,2392.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.0,34782.61,0,0,0,0.0,New Property,2300.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.2,9917.36,0,0,0,0.0,New Property,1210.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.2,5714.29,0,0,0,0.0,New Property,350.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.92,10635.84,0,0,0,0.0,New Property,865.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.8,21129.33,0,0,0,0.0,,2745.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.15,12759.64,0,0,0,0.0,New Property,1685.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,10317.46,0,0,0,0.0,New Property,1890.0,0,0,0,0,0,Furnished,15
+flat,,,4.2,25893.96,0,0,0,0.0,,1622.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.95,13928.57,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Furnished,15
+flat,,,0.72,4577.24,0,0,0,0.0,New Property,1573.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.58,6236.56,0,0,0,0.0,New Property,930.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.99,23749.01,0,0,0,0.0,New Property,1259.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.35,9109.31,0,0,0,0.0,New Property,1482.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.19,25201.38,0,0,0,0.0,,869.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,19166.67,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.3,37234.04,0,0,0,0.0,New Property,1692.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.9,13103.45,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.62,13500.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.37,6166.67,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,11363.64,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.66,8239.7,0,0,0,0.0,New Property,801.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,15757.58,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,19683.15,0,0,0,0.0,New Property,2083.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.37,13618.29,0,0,0,0.0,New Property,1006.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.9,15139.44,0,0,0,0.0,New Property,1255.0,0,0,0,0,0,Furnished,15
+flat,,,1.5,13089.01,0,0,0,0.0,New Property,1146.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.04,11555.56,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,14285.71,0,0,0,0.0,New Property,1225.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.52,27636.36,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.75,21186.44,0,0,0,0.0,New Property,1770.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.6,12235.29,0,0,0,0.0,New Property,2125.0,0,0,0,0,0,Furnished,15
+flat,,,3.5,19444.44,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Furnished,15
+flat,,,7.5,24146.81,0,0,0,0.0,,3106.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.15,16513.06,0,0,0,0.0,New Property,1302.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,12733.45,0,0,0,0.0,New Property,2356.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,11149.23,0,0,0,0.0,New Property,583.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,6000.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Furnished,15
+flat,,,0.95,9500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,16728.62,0,0,0,0.0,,2690.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.08,10800.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,11869.44,0,0,0,0.0,New Property,1348.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.45,14543.63,0,0,0,0.0,New Property,997.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.5,37888.05,0,0,0,0.0,New Property,4091.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.23,11714.29,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.45,13920.45,0,0,0,0.0,New Property,1760.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,14234.88,0,0,0,0.0,New Property,1405.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.7,18000.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Furnished,15
+flat,,,5.25,19516.73,0,0,0,0.0,New Property,2690.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,11877.39,0,0,0,0.0,,1305.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,17557.25,0,0,0,0.0,New Property,1310.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.0,18509.95,0,0,0,0.0,New Property,2161.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.95,29129.79,0,0,0,0.0,,1356.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.55,14253.77,0,0,0,0.0,New Property,1789.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.75,21568.63,0,0,0,0.0,New Property,1275.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.51,24285.71,0,0,0,0.0,New Property,210.0,0,0,0,0,0,Furnished,15
+flat,,,1.63,13583.33,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,11538.46,0,0,0,0.0,New Property,1430.0,0,0,0,0,0,Furnished,15
+flat,,,1.75,11217.95,0,0,0,0.0,,1560.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.08,11304.35,0,0,0,0.0,,1840.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,5718.95,0,0,0,0.0,New Property,1224.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.82,6024.98,0,0,0,0.0,New Property,1361.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,14705.88,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Furnished,15
+flat,,,3.98,24417.18,0,0,0,0.0,New Property,1630.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.65,12777.24,0,0,0,0.0,New Property,2074.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,7550.73,0,0,0,0.0,New Property,2119.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,24166.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,10925.82,0,0,0,0.0,New Property,1739.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,13793.1,0,0,0,0.0,New Property,3045.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.99,10473.68,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,14230.77,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.95,5113.02,0,0,0,0.0,New Property,1858.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.7,17904.76,0,0,0,0.0,New Property,2625.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.85,11323.53,0,0,0,0.0,New Property,3400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,22666.67,0,0,0,0.0,New Property,750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.55,22982.46,0,0,0,0.0,New Property,2850.0,0,0,0,0,0,Furnished,15
+flat,,,5.0,21231.42,0,0,0,0.0,,2355.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.9,20081.97,0,0,0,0.0,,2440.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.65,17129.93,0,0,0,0.0,,1547.0,0,0,0,0,0,Furnished,15
+flat,,,2.75,22916.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,16818.18,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,10645.16,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Furnished,15
+flat,,,4.5,18672.2,0,0,0,0.0,New Property,2410.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.82,15023.97,0,0,0,0.0,New Property,1877.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.52,14285.71,0,0,0,0.0,,1064.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.7,15086.21,0,0,0,0.0,New Property,464.0,0,0,0,0,0,Furnished,15
+flat,,,0.16,5211.73,0,0,0,0.0,New Property,307.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.42,7500.0,0,0,0,0.0,New Property,560.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,17241.38,0,0,0,0.0,New Property,580.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.73,7688.89,0,0,0,0.0,New Property,2250.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.85,17924.53,0,0,0,0.0,New Property,1590.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,16.0,59259.26,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.3,15789.47,0,0,0,0.0,New Property,2090.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.02,26657.82,0,0,0,0.0,New Property,1508.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,13888.89,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.12,13512.34,0,0,0,0.0,,2309.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.74,20999.44,0,0,0,0.0,,1781.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.3,20702.94,0,0,0,0.0,,2077.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,16522.42,0,0,0,0.0,New Property,1271.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.56,10894.94,0,0,0,0.0,New Property,514.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.65,16590.91,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,18571.43,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,13227.51,0,0,0,0.0,New Property,567.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.711,13752.42,0,0,0,0.0,New Property,517.0,0,0,0,0,0,Furnished,15
+flat,,,0.36,13333.33,0,0,0,0.0,New Property,270.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,12142.86,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,17741.94,0,0,0,0.0,New Property,620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.99,10355.65,0,0,0,0.0,New Property,956.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,16986.3,0,0,0,0.0,,1825.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,14040.56,0,0,0,0.0,,641.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.57,15200.0,0,0,0,0.0,New Property,375.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,14819.21,0,0,0,0.0,New Property,1687.0,0,0,0,0,0,Furnished,15
+flat,,,7.0,26246.72,0,0,0,0.0,New Property,2667.0,0,0,0,0,0,Furnished,15
+flat,,,6.1,23570.32,0,0,0,0.0,New Property,2588.0,0,0,0,0,0,Furnished,15
+flat,,,4.65,37200.0,0,0,0,0.0,,1250.0,0,0,0,0,0,Furnished,15
+flat,,,5.0,24271.84,0,0,0,0.0,,2060.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.3,18911.17,0,0,0,0.0,New Property,1745.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,20000.0,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,12030.8,0,0,0,0.0,New Property,2078.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.98,17444.93,0,0,0,0.0,New Property,1135.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,11177.35,0,0,0,0.0,New Property,671.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.52,10714.29,0,0,0,0.0,New Property,2352.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,12525.05,0,0,0,0.0,New Property,1996.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.2,179775.28,0,0,0,0.0,New Property,178.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,12830.19,0,0,0,0.0,,1325.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.11,20292.5,0,0,0,0.0,New Property,547.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.6,12500.0,0,0,0,0.0,,480.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,21666.67,0,0,0,0.0,,1500.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.9,23437.5,0,0,0,0.0,,1664.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.46,11500.0,0,0,0,0.0,New Property,400.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.75,11718.75,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.84,12242.18,0,0,0,0.0,New Property,1503.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.1,17222.22,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,14598.54,0,0,0,0.0,,1370.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7909999999999999,12301.71,0,0,0,0.0,New Property,643.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.49,21977.05,0,0,0,0.0,,1133.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.55,12624.47,0,0,0,0.0,New Property,2812.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.32,8000.0,0,0,0,0.0,New Property,400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,20930.23,0,0,0,0.0,,2150.0,0,0,0,0,0,Unfurnished,15
+flat,,,8.5,15510.95,0,0,0,0.0,New Property,5480.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.3,18052.52,0,0,0,0.0,New Property,1828.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,11487.65,0,0,0,0.0,New Property,1741.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,13888.89,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,16501.65,0,0,0,0.0,New Property,1818.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,7894.74,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,10714.29,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Furnished,15
+flat,,,3.75,14018.69,0,0,0,0.0,New Property,2675.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,8965.52,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.92,16000.0,0,0,0,0.0,New Property,1825.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,8965.52,0,0,0,0.0,New Property,725.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.72,9828.57,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.75,20175.44,0,0,0,0.0,New Property,2850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,11718.75,0,0,0,0.0,New Property,2560.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,9866.67,0,0,0,0.0,New Property,1875.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,15625.0,0,0,0,0.0,New Property,480.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.1,17600.0,0,0,0,0.0,New Property,625.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.95,17878.79,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.25,22737.12,0,0,0,0.0,New Property,2309.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,18339.45,0,0,0,0.0,New Property,2999.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.9,17625.9,0,0,0,0.0,,2780.0,0,0,0,0,0,Furnished,15
+flat,,,0.612,4500.0,0,0,0,0.0,,1360.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.0,15503.88,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,22727.27,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,23333.33,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,16666.67,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.86,4777.78,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.5,22000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,,0
+flat,,,2.8,15102.48,0,0,0,0.0,New Property,1854.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,9195.4,0,0,0,0.0,New Property,2175.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.87,17000.0,0,0,0,0.0,,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,15178.57,0,0,0,0.0,New Property,1120.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,13571.15,0,0,0,0.0,New Property,2579.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,13035.38,0,0,0,0.0,,1611.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,12784.09,0,0,0,0.0,New Property,1760.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.9,18731.99,0,0,0,0.0,New Property,2082.0,0,0,0,0,0,Furnished,15
+flat,,,1.3,10284.81,0,0,0,0.0,New Property,1264.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.958,6699.3,0,0,0,0.0,New Property,1430.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.75,21444.7,0,0,0,0.0,New Property,2215.0,0,0,0,0,0,Furnished,15
+flat,,,1.35,11287.63,0,0,0,0.0,New Property,1196.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.65,21031.75,0,0,0,0.0,New Property,1260.0,0,0,0,0,0,,0
+flat,,,0.65,12500.0,0,0,0,0.0,New Property,520.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,19805.55,0,0,0,0.0,,2777.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.5,23762.93,0,0,0,0.0,,3577.0,0,0,0,0,0,Furnished,15
+flat,,,5.2,22080.68,0,0,0,0.0,,2355.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,11666.67,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,16176.47,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.32,20084.69,0,0,0,0.0,,1653.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,15772.87,0,0,0,0.0,,1902.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,12983.27,0,0,0,0.0,New Property,1733.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,18750.0,0,0,0,0.0,New Property,400.0,0,0,0,0,0,Furnished,15
+flat,,,0.67,6041.48,0,0,0,0.0,New Property,1109.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,15247.11,0,0,0,0.0,,1902.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.76,11692.31,0,0,0,0.0,New Property,650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,13379.37,0,0,0,0.0,New Property,2317.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,22222.22,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.2,37721.89,0,0,0,0.0,New Property,2704.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.35,12959.38,0,0,0,0.0,New Property,2585.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.75,34757.98,0,0,0,0.0,,1942.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.25,15116.28,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.24,32400.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,19083.97,0,0,0,0.0,New Property,1310.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,15594.54,0,0,0,0.0,New Property,2565.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.86,17546.01,0,0,0,0.0,New Property,1630.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.72,5333.33,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.18,13456.79,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,10666.67,0,0,0,0.0,New Property,1875.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.43,8285.16,0,0,0,0.0,New Property,519.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.45,6880.73,0,0,0,0.0,New Property,654.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,11250.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.8,15390.85,0,0,0,0.0,,2469.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,9510.09,0,0,0,0.0,New Property,1735.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.35,11344.54,0,0,0,0.0,New Property,1190.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.8,18181.82,0,0,0,0.0,,2090.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.48,11028.32,0,0,0,0.0,New Property,1342.0,0,0,0,0,0,Furnished,15
+flat,,,1.7,17000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.81,18100.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.93,5166.67,0,0,0,0.0,,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,8072.17,0,0,0,0.0,New Property,2106.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,13089.01,0,0,0,0.0,New Property,1719.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,8547.01,0,0,0,0.0,New Property,2340.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,6285.71,0,0,0,0.0,,1750.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.75,15833.33,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.2,28888.89,0,0,0,0.0,,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.15,26250.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.5,15789.47,0,0,0,0.0,New Property,4750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,21666.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.0,33333.33,0,0,0,0.0,New Property,4500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.42,8621.74,0,0,0,0.0,New Property,1647.0,0,0,0,0,0,Unfurnished,15
+flat,,,11.5,31506.85,0,0,0,0.0,New Property,3650.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.61,36100.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.95,16857.14,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,18320.18,0,0,0,0.0,New Property,1774.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.33,6000.0,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Unfurnished,15
+flat,,,16.75,38417.43,0,0,0,0.0,New Property,4360.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,10000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.75,10714.29,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Furnished,15
+flat,,,2.35,12239.58,0,0,0,0.0,New Property,1920.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.52,11555.56,0,0,0,0.0,New Property,450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.17,7727.27,0,0,0,0.0,New Property,220.0,0,0,0,0,0,Furnished,15
+flat,,,1.35,9890.11,0,0,0,0.0,New Property,1365.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.25,385416.67,0,0,0,0.0,,240.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,12184.87,0,0,0,0.0,,1190.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,12808.78,0,0,0,0.0,New Property,1093.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,15564.2,0,0,0,0.0,New Property,514.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.1,22778.19,0,0,0,0.0,,2678.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,20634.92,0,0,0,0.0,,1260.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.64,19016.39,0,0,0,0.0,,2440.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,7776.76,0,0,0,0.0,New Property,1093.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.55,35632.18,0,0,0,0.0,New Property,435.0,0,0,0,0,0,Furnished,15
+flat,,,1.3,11627.91,0,0,0,0.0,,1118.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.0,30303.03,0,0,0,0.0,New Property,1980.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.71,13897.44,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.0,16501.65,0,0,0,0.0,New Property,606.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,18025.08,0,0,0,0.0,New Property,1276.0,0,0,0,0,0,Furnished,15
+flat,,,11.0,25363.15,0,0,0,0.0,New Property,4337.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.72,14007.78,0,0,0,0.0,New Property,514.0,0,0,0,0,0,Furnished,15
+flat,,,1.0,11627.91,0,0,0,0.0,,860.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,7862.41,0,0,0,0.0,New Property,2035.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.6,17931.03,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,14705.88,0,0,0,0.0,,1530.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.75,14495.55,0,0,0,0.0,New Property,2587.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,5061.73,0,0,0,0.0,New Property,8100.0,0,0,0,0,0,Furnished,15
+flat,,,6.5,16348.09,0,0,0,0.0,New Property,3976.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.95,13748.19,0,0,0,0.0,New Property,691.0,0,0,0,0,0,Furnished,15
+flat,,,0.6,9538.95,0,0,0,0.0,New Property,629.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.95,10114.11,0,0,0,0.0,New Property,1928.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,13846.15,0,0,0,0.0,New Property,650.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.1,13548.39,0,0,0,0.0,,1550.0,0,0,0,0,0,Furnished,15
+flat,,,3.85,15400.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.8,15665.8,0,0,0,0.0,New Property,1149.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.65,21136.36,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Furnished,15
+flat,,,0.98,18631.18,0,0,0,0.0,New Property,526.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.6,14608.23,0,0,0,0.0,New Property,4518.0,0,0,0,0,0,Furnished,15
+flat,,,3.35,18862.61,0,0,0,0.0,New Property,1776.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,21212.12,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,24074.07,0,0,0,0.0,,2700.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.15,21078.43,0,0,0,0.0,New Property,1020.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.6,27058.82,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.2,11560.69,0,0,0,0.0,New Property,2768.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.78,13043.48,0,0,0,0.0,New Property,598.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.6,11026.29,0,0,0,0.0,New Property,2358.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,17391.3,0,0,0,0.0,,1035.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,16764.46,0,0,0,0.0,New Property,1193.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.6,24303.8,0,0,0,0.0,,3950.0,0,0,0,0,0,Unfurnished,15
+flat,,,11.0,22000.0,0,0,0,0.0,New Property,5000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,19157.09,0,0,0,0.0,New Property,1305.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.3,22381.76,0,0,0,0.0,New Property,2368.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,27667.98,0,0,0,0.0,,1265.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.55,15838.51,0,0,0,0.0,New Property,1610.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,13333.33,0,0,0,0.0,,1800.0,0,0,0,0,0,Furnished,15
+flat,,,0.52,10612.24,0,0,0,0.0,New Property,490.0,0,0,0,0,0,Furnished,15
+flat,,,12.25,12250.0,0,0,0,0.0,New Property,10000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,17647.06,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.43,20000.0,0,0,0,0.0,,2715.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,24439.92,0,0,0,0.0,New Property,982.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,11124.85,0,0,0,0.0,New Property,1618.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.99,23059.1,0,0,0,0.0,New Property,863.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,17482.52,0,0,0,0.0,,2002.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,12500.0,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Furnished,15
+flat,,,2.2,11398.96,0,0,0,0.0,New Property,1930.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,12631.58,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,8988.76,0,0,0,0.0,New Property,890.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,8571.43,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,12809.92,0,0,0,0.0,New Property,1210.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.5,3846.15,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,22222.22,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Furnished,15
+flat,,,4.65,25000.0,0,0,0,0.0,New Property,1860.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.99,23005.78,0,0,0,0.0,New Property,865.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,11460.38,0,0,0,0.0,New Property,1527.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.5,39430.17,0,0,0,0.0,New Property,3931.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,10546.88,0,0,0,0.0,New Property,1280.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,8574.81,0,0,0,0.0,New Property,1691.0,0,0,0,0,0,Furnished,15
+flat,,,2.2,14129.74,0,0,0,0.0,New Property,1557.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.05,11296.3,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.49,20136.52,0,0,0,0.0,,3223.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.4,13877.55,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,17031.63,0,0,0,0.0,New Property,1233.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.74,12737.92,0,0,0,0.0,New Property,1366.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,14000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,14.0,31111.11,0,0,0,0.0,New Property,4500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,15217.39,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.9,32061.69,0,0,0,0.0,New Property,2464.0,0,0,0,0,0,Furnished,15
+flat,,,2.03,22860.36,0,0,0,0.0,New Property,888.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.05,25402.73,0,0,0,2.0,New Property,807.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,12592.59,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.21,21123.93,0,0,0,0.0,,1993.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.24,22400.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.95,14280.55,0,0,0,0.0,New Property,2766.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,16194.33,0,0,0,0.0,,1235.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.63,20289.22,0,0,0,0.0,,2282.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,15831.13,0,0,0,0.0,New Property,1895.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.35,18929.5,0,0,0,0.0,New Property,2298.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,18604.65,0,0,0,0.0,,645.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.6,23529.41,0,0,0,0.0,New Property,1105.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.73,12564.54,0,0,0,0.0,New Property,581.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.3,6806.28,0,0,0,0.0,New Property,1910.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,16286.64,0,0,0,0.0,New Property,1535.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,20000.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.3,38392.86,0,0,0,0.0,New Property,1120.0,0,0,0,0,0,Furnished,15
+flat,,,4.25,20142.18,0,0,0,0.0,New Property,2110.0,0,0,0,0,0,Furnished,15
+flat,,,1.9,31666.67,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.8,21805.98,0,0,0,0.0,,3577.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,11733.33,0,0,0,0.0,,1875.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,9575.92,0,0,0,0.0,New Property,731.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.51,19584.95,0,0,0,0.0,New Property,771.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,20270.27,0,0,0,0.0,New Property,1480.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.4,25910.93,0,0,0,0.0,New Property,2470.0,0,0,0,0,0,Furnished,15
+flat,,,1.69,1396.69,0,0,0,0.0,,12100.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.04,29360.47,0,0,0,0.0,,1376.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,12345.68,0,0,0,0.0,New Property,2025.0,0,0,0,0,0,Furnished,15
+flat,,,0.69,11500.0,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,11111.11,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,15887.85,0,0,0,0.0,New Property,535.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.8,18461.54,0,0,0,0.0,New Property,2600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,6956.52,0,0,0,0.0,New Property,1725.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.2,21593.83,0,0,0,0.0,New Property,1945.0,0,0,0,0,0,Furnished,15
+flat,,,2.85,12966.33,0,0,0,0.0,New Property,2198.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,12500.0,0,0,0,0.0,New Property,2600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,23400.94,0,0,0,0.0,New Property,641.0,0,0,0,0,0,Furnished,15
+flat,,,3.6,17475.73,0,0,0,0.0,,2060.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,18904.32,0,0,0,0.0,New Property,1296.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.95,16349.34,0,0,0,0.0,New Property,2416.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.18,20490.2,0,0,0,0.0,New Property,2040.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,22834.65,0,0,0,0.0,New Property,1270.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,6818.18,0,0,0,0.0,New Property,1320.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,10067.11,0,0,0,0.0,New Property,745.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,13554.22,0,0,0,0.0,,1660.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,15686.27,0,0,0,0.0,New Property,1530.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,10477.79,0,0,0,0.0,New Property,2386.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,12382.86,0,0,0,0.0,New Property,1494.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.11,29256.82,0,0,0,0.0,,1063.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,13909.77,0,0,0,0.0,New Property,2660.0,0,0,0,0,0,Furnished,15
+flat,,,2.7,22131.15,0,0,0,0.0,,1220.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.96,15469.61,0,0,0,0.0,,1267.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.87,14960.0,0,0,0,0.0,,1250.0,0,0,0,0,0,Furnished,15
+flat,,,1.2,11881.19,0,0,0,0.0,,1010.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.4,22000.0,0,0,0,0.0,,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,10909.09,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.79,11496.47,0,0,0,0.0,New Property,1557.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,13623.98,0,0,0,0.0,New Property,1468.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,10591.9,0,0,0,0.0,New Property,1605.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,22674.42,0,0,0,0.0,New Property,860.0,0,0,0,0,0,Furnished,15
+flat,,,3.0,17846.52,0,0,0,0.0,,1681.0,0,0,0,0,0,Furnished,15
+flat,,,1.2,8010.68,0,0,0,0.0,New Property,1498.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.65,7222.22,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,74000.0,0,0,0,0.0,New Property,500.0,0,0,0,0,0,Furnished,15
+flat,,,20.0,62992.13,0,0,0,0.0,New Property,3175.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,15202.7,0,0,0,0.0,New Property,1480.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,10690.79,0,0,0,0.0,New Property,608.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,14191.11,0,0,0,0.0,New Property,2114.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.5,11111.11,0,0,0,0.0,New Property,450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.62,15536.48,0,0,0,0.0,,2330.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.95,27500.0,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.8,21111.11,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,14470.28,0,0,0,0.0,New Property,1935.0,0,0,0,0,0,Furnished,15
+flat,,,0.6,7957.56,0,0,0,0.0,New Property,754.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.1,12415.35,0,0,0,0.0,New Property,886.0,0,0,0,0,0,Furnished,15
+flat,,,1.25,20833.33,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.05,10000.0,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,8333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.25,20967.74,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.9,29545.45,0,0,0,0.0,,1320.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.47,11488.37,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.05,16944.44,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Furnished,15
+flat,,,5.75,29517.45,0,0,0,0.0,,1948.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,16129.03,0,0,0,0.0,New Property,2015.0,0,0,0,0,0,Furnished,15
+flat,,,1.25,7987.22,0,0,0,0.0,New Property,1565.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.0,28846.15,0,0,0,0.0,New Property,3120.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.5,19902.02,0,0,0,0.0,,3266.0,0,0,0,0,0,Furnished,15
+flat,,,1.7,16472.87,0,0,0,0.0,New Property,1032.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,12253.6,0,0,0,0.0,New Property,1877.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,5220.88,0,0,0,0.0,,1245.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.65,11209.81,0,0,0,0.0,New Property,2364.0,0,0,0,0,0,Furnished,15
+flat,,,1.6,14638.61,0,0,0,0.0,New Property,1093.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.0,32362.46,0,0,0,0.0,New Property,2472.0,0,0,0,0,0,Furnished,15
+flat,,,3.75,18750.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.65,18996.42,0,0,0,0.0,New Property,1395.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,10434.78,0,0,0,0.0,New Property,575.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.55,8148.15,0,0,0,0.0,New Property,675.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.0,18018.02,0,0,0,0.0,New Property,3330.0,0,0,0,0,0,Furnished,15
+flat,,,3.0,11111.11,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Furnished,15
+flat,,,0.18,3333.33,0,0,0,0.0,New Property,540.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.99,17957.96,0,0,0,0.0,New Property,1665.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.3,9420.29,0,0,0,0.0,New Property,1380.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,12760.42,0,0,0,0.0,New Property,1920.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,16666.67,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,19318.18,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.55,11340.21,0,0,0,0.0,New Property,485.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.9,15901.06,0,0,0,0.0,New Property,566.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,26470.59,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,14473.68,0,0,0,0.0,,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.23,12199.12,0,0,0,0.0,New Property,1828.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,12564.1,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,11570.25,0,0,0,0.0,New Property,1210.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,17482.52,0,0,0,0.0,New Property,1430.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.05,14150.94,0,0,0,0.0,New Property,742.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,14450.87,0,0,0,0.0,New Property,865.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,15243.9,0,0,0,0.0,New Property,1640.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.54,4282.32,0,0,0,0.0,New Property,1261.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.94,17510.42,0,0,0,0.0,New Property,1679.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,14705.88,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.65,19457.55,0,0,0,0.0,New Property,848.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.05,11302.48,0,0,0,0.0,New Property,929.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.92,12834.22,0,0,0,0.0,New Property,1496.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.67,38835.98,0,0,0,0.0,New Property,945.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.73,9931.97,0,0,0,0.0,New Property,735.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.6,13479.36,0,0,0,0.0,New Property,1187.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,23684.21,0,0,0,0.0,New Property,950.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,13953.49,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.15,13030.3,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.0,20408.16,0,0,0,0.0,,2450.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,13529.41,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Furnished,15
+flat,,,2.0,13333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,17241.38,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,10454.55,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.4,10248.9,0,0,0,0.0,New Property,1366.0,0,0,0,0,0,Furnished,15
+flat,,,3.5,14830.51,0,0,0,0.0,,2360.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,15384.62,0,0,0,0.0,New Property,2600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.5,20945.95,0,0,0,0.0,New Property,7400.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,14520.2,0,0,0,0.0,,1584.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,20465.99,0,0,0,0.0,New Property,1588.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,8095.24,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,13103.04,0,0,0,0.0,,1679.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.7,33687.94,0,0,0,0.0,,1692.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,8955.22,0,0,0,0.0,New Property,670.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.5,25000.0,0,0,0,0.0,New Property,200.0,0,0,0,0,0,Furnished,15
+flat,,,0.45,4500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.41,9306.93,0,0,0,0.0,,1515.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.35,5932.2,0,0,0,0.0,New Property,590.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.69,12028.47,0,0,0,0.0,,1405.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.48,7384.62,0,0,0,0.0,New Property,650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,19230.77,0,0,0,0.0,New Property,2600.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.99,6325.88,0,0,0,0.0,New Property,1565.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.25,29069.77,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,7522.12,0,0,0,0.0,New Property,1130.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,17195.77,0,0,0,0.0,New Property,1890.0,0,0,0,0,0,Furnished,15
+flat,,,2.38,9786.18,0,0,0,0.0,,2432.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.38,6859.21,0,0,0,0.0,New Property,554.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.55,19540.23,0,0,0,0.0,,1305.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.55,5612.24,0,0,0,0.0,New Property,980.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.28,4827.59,0,0,0,0.0,New Property,580.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,15040.65,0,0,0,0.0,New Property,1230.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,5294.37,0,0,0,0.0,New Property,2361.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,8900.52,0,0,0,0.0,New Property,1910.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.9,30993.04,0,0,0,0.0,,1581.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.0,28846.15,0,0,0,0.0,New Property,5200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,21875.0,0,0,0,0.0,New Property,1280.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,17578.12,0,0,0,0.0,New Property,1280.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.65,13589.74,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.05,26114.65,0,0,0,0.0,New Property,785.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,26.0,24074.07,0,0,0,0.0,New Property,10800.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.35,10542.17,0,0,0,0.0,New Property,332.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,10563.38,0,0,0,0.0,New Property,1704.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,10928.96,0,0,0,0.0,New Property,1647.0,0,0,0,0,0,Furnished,15
+flat,,,3.5,21084.34,0,0,0,0.0,,1660.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.95,12786.89,0,0,0,0.0,New Property,1525.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.36,11960.13,0,0,0,0.0,New Property,301.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,11160.71,0,0,0,0.0,New Property,1120.0,0,0,0,0,0,Furnished,15
+flat,,,2.8,10967.49,0,0,0,0.0,New Property,2553.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,31746.03,0,0,0,0.0,,1323.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.92,4444.44,0,0,0,0.0,New Property,2070.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.75,13888.89,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Unfurnished,15
+flat,,,11.0,26047.83,0,0,0,0.0,,4223.0,0,0,0,0,0,Furnished,15
+flat,,,1.3,12025.9,0,0,0,0.0,New Property,1081.0,0,0,0,0,0,Furnished,15
+flat,,,1.75,9333.33,0,0,0,0.0,New Property,1875.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,19877.68,0,0,0,0.0,,3270.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,12642.23,0,0,0,0.0,New Property,791.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.2,16824.4,0,0,0,0.0,,1902.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,13087.25,0,0,0,0.0,New Property,1490.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,23333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.53,20105.12,0,0,0,0.0,,761.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,20416.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Furnished,15
+flat,,,0.48,7868.85,0,0,0,0.0,New Property,610.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,22579.03,0,0,0,0.0,,1993.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.4,15813.95,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.52,15750.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,10144.93,0,0,0,0.0,New Property,1725.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.04,15983.18,0,0,0,0.0,,1902.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,11029.41,0,0,0,0.0,New Property,1360.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,16379.31,0,0,0,0.0,New Property,1160.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,13994.17,0,0,0,0.0,New Property,1715.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.415,13787.38,0,0,0,0.0,New Property,301.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.51,7906.98,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.7,23255.81,0,0,0,0.0,,2021.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.0,35000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Furnished,15
+flat,,,0.12,6000.0,0,0,0,0.0,New Property,200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.84,21942.86,0,0,0,0.0,,1750.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,14054.81,0,0,0,0.0,New Property,1423.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.75,14864.86,0,0,0,0.0,New Property,1850.0,0,0,0,0,0,Furnished,15
+flat,,,3.05,17202.48,0,0,0,0.0,New Property,1773.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.2,16410.26,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,15907.14,0,0,0,0.0,New Property,1163.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.19,18250.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,8704.06,0,0,0,0.0,New Property,1551.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,14338.58,0,0,0,0.0,New Property,1081.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,16666.67,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,20.29,117965.12,0,0,0,0.0,New Property,1720.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,23333.33,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Furnished,15
+flat,,,1.6,13805.0,0,0,0,0.0,New Property,1159.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.9,16307.35,0,0,0,0.0,New Property,3618.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,12864.49,0,0,0,0.0,New Property,583.0,0,0,0,0,0,Furnished,15
+flat,,,2.2,14221.07,0,0,0,0.0,New Property,1547.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.54,13508.77,0,0,0,0.0,New Property,1140.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.3,25566.81,0,0,0,0.0,New Property,2073.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.25,43491.3,0,0,0,0.0,New Property,1667.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.75,20149.25,0,0,0,0.0,New Property,3350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,15416.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.95,16019.42,0,0,0,0.0,New Property,3090.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.0,23333.33,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.7,14105.99,0,0,0,0.0,,2623.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,10365.85,0,0,0,0.0,New Property,4100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,9569.38,0,0,0,0.0,New Property,2090.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,15032.68,0,0,0,0.0,,1530.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.5,9848.98,0,0,0,0.0,New Property,1523.0,0,0,0,0,0,Furnished,15
+flat,,,0.82,10649.35,0,0,0,0.0,New Property,770.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.1,17967.6,0,0,0,0.0,,3395.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,12458.47,0,0,0,0.0,New Property,1806.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.71,32125.0,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Furnished,15
+flat,,,4.5,14062.5,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,16826.92,0,0,0,0.0,,2080.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.4,20143.88,0,0,0,0.0,New Property,695.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,9685.86,0,0,0,0.0,New Property,1910.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.2,4000.0,0,0,0,0.0,New Property,500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,17691.66,0,0,0,0.0,New Property,1187.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,20731.71,0,0,0,0.0,New Property,820.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.5,10309.28,0,0,0,0.0,New Property,485.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,10038.61,0,0,0,0.0,New Property,1295.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,14450.87,0,0,0,0.0,New Property,1557.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.9,19117.65,0,0,0,0.0,New Property,2040.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.8,24911.03,0,0,0,0.0,New Property,1124.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,13034.41,0,0,0,0.0,New Property,1918.0,0,0,0,0,0,Furnished,15
+flat,,,4.5,19463.67,0,0,0,0.0,New Property,2312.0,0,0,0,0,0,Furnished,15
+flat,,,3.3,13947.59,0,0,0,0.0,,2366.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,11494.25,0,0,0,0.0,New Property,609.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.08,11885.71,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,7777.78,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.0,24000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Furnished,15
+flat,,,3.25,12820.51,0,0,0,0.0,New Property,2535.0,0,0,0,0,0,Furnished,15
+flat,,,2.97,15269.92,0,0,0,0.0,,1945.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.6,25134.65,0,0,0,0.0,New Property,2228.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.8,24268.38,0,0,0,0.0,,2802.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.79,11076.73,0,0,0,0.0,New Property,1616.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,24838.55,0,0,0,0.0,New Property,2013.0,0,0,0,0,0,Furnished,15
+flat,,,0.778,9464.72,0,0,0,0.0,New Property,822.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.85,41802.39,0,0,0,0.0,,921.0,0,0,0,0,0,Unfurnished,15
+flat,,,17.0,65814.94,0,0,0,0.0,New Property,2583.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.65,17222.22,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.2,20338.98,0,0,0,0.0,New Property,590.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.05,15648.85,0,0,0,0.0,,1310.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,12376.24,0,0,0,0.0,,1010.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.61,13050.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Furnished,15
+flat,,,3.0,12244.9,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Furnished,15
+flat,,,9.5,15833.33,0,0,0,0.0,New Property,6000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,9583.33,0,0,0,0.0,,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,17333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.35,19230.77,0,0,0,0.0,,2262.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.5,23148.15,0,0,0,0.0,New Property,3240.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,12352.94,0,0,0,0.0,New Property,3400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,6410.26,0,0,0,0.0,New Property,1560.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,5841.12,0,0,0,0.0,New Property,2140.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.75,18590.37,0,0,0,0.0,New Property,3093.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,13073.64,0,0,0,0.0,New Property,1874.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.655,5000.0,0,0,0,0.0,,1310.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.2,21693.49,0,0,0,0.0,,2858.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.59,15051.02,0,0,0,0.0,New Property,392.0,0,0,0,0,0,Furnished,15
+flat,,,0.25,4545.45,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.28,3733.33,0,0,0,0.0,New Property,750.0,0,0,0,0,0,Furnished,15
+flat,,,3.65,20551.8,0,0,0,0.0,New Property,1776.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.2,4237.29,0,0,0,0.0,New Property,472.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,24896.27,0,0,0,0.0,New Property,723.0,0,0,0,0,0,Furnished,15
+flat,,,1.5,23809.52,0,0,0,0.0,New Property,630.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.05,10396.04,0,0,0,0.0,,1010.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,11562.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Furnished,15
+flat,,,0.79,12640.0,0,0,0,0.0,New Property,625.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,12032.09,0,0,0,0.0,,1496.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.32,13821.99,0,0,0,0.0,,955.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,19097.22,0,0,0,0.0,New Property,1440.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,10526.32,0,0,0,0.0,New Property,1425.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.67,22691.93,0,0,0,0.0,New Property,2058.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,10869.57,0,0,0,0.0,New Property,1196.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.0,5899.71,0,0,0,0.0,New Property,1695.0,0,0,0,0,0,,0
+flat,,,2.55,23181.82,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Furnished,15
+flat,,,0.45,7601.35,0,0,0,0.0,New Property,592.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.6,14693.88,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.4,11235.96,0,0,0,0.0,New Property,356.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,11563.37,0,0,0,0.0,New Property,1081.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.89,13152.4,0,0,0,0.0,New Property,1437.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,14569.54,0,0,0,0.0,New Property,1510.0,0,0,0,0,0,Furnished,15
+flat,,,1.7,9855.07,0,0,0,0.0,,1725.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.5,13513.51,0,0,0,0.0,New Property,370.0,0,0,0,0,0,Furnished,15
+flat,,,0.966,11568.86,0,0,0,0.0,New Property,835.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,8620.69,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Furnished,15
+flat,,,3.68,16000.0,0,0,0,0.0,,2300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,23529.41,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.5,27366.39,0,0,0,0.0,New Property,3106.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.61,14185.02,0,0,0,0.0,New Property,1135.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,20869.57,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.25,4464.29,0,0,0,0.0,New Property,560.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.15,11991.66,0,0,0,0.0,New Property,959.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,15714.29,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.65,18928.57,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.99,17347.83,0,0,0,0.0,New Property,2300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,10150.04,0,0,0,0.0,New Property,1133.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.179,4475.0,0,0,0,0.0,New Property,400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.76,11450.88,0,0,0,0.0,New Property,1537.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,12105.26,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,9245.56,0,0,0,0.0,New Property,1352.0,0,0,0,0,0,Furnished,15
+flat,,,1.6,10322.58,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,13763.9,0,0,0,0.0,New Property,1889.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.69,10313.9,0,0,0,0.0,New Property,669.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.45,37250.0,0,0,0,0.0,,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.5,166666.67,0,0,0,0.0,New Property,450.0,0,0,0,0,0,Furnished,15
+flat,,,2.6,13684.21,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,17006.8,0,0,0,0.0,,1470.0,0,0,0,0,0,Furnished,15
+flat,,,0.85,14214.05,0,0,0,0.0,New Property,598.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,19166.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.1,10547.46,0,0,0,0.0,New Property,1991.0,0,0,0,0,0,Unfurnished,15
+flat,,,46.0,182178.22,0,0,0,0.0,New Property,2525.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,16452.07,0,0,0,0.0,New Property,1398.0,0,0,0,0,0,Furnished,15
+flat,,,1.35,20962.73,0,0,0,0.0,New Property,644.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,12452.83,0,0,0,0.0,New Property,1325.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.09,20900.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.25,18125.0,0,0,0,0.0,New Property,4000.0,0,0,0,0,0,Furnished,15
+flat,,,3.25,15476.19,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.2,20447.28,0,0,0,0.0,New Property,1565.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.6,15652.17,0,0,0,0.0,New Property,2300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.32,5818.18,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,18072.29,0,0,0,0.0,New Property,996.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.15,17659.57,0,0,0,0.0,,2350.0,0,0,0,0,0,Furnished,15
+flat,,,0.825,11785.71,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,10738.26,0,0,0,0.0,,745.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,13214.29,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.8,7936.51,0,0,0,0.0,New Property,1008.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,8918.92,0,0,0,0.0,,1850.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.8,21812.08,0,0,0,0.0,,3576.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,15500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.4,12606.6,0,0,0,0.0,New Property,2697.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.35,19393.67,0,0,0,0.0,,2243.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,9078.21,0,0,0,0.0,New Property,1432.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.5,27500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.4,13714.29,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Furnished,15
+flat,,,3.7,17788.46,0,0,0,0.0,New Property,2080.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,17793.59,0,0,0,0.0,New Property,1405.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,9076.76,0,0,0,0.0,New Property,1928.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,10000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Furnished,15
+flat,,,0.75,10578.28,0,0,0,0.0,New Property,709.0,0,0,0,0,0,Furnished,15
+flat,,,0.48,8727.27,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.99,12060.61,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,24444.44,0,0,0,0.0,New Property,450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,18058.69,0,0,0,0.0,New Property,2215.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,16952.53,0,0,0,0.0,New Property,2507.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,9372.75,0,0,0,0.0,,1387.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.06,13428.94,0,0,0,0.0,,1534.0,0,0,0,0,0,Furnished,15
+flat,,,0.8,5089.06,0,0,0,0.0,New Property,1572.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,11111.11,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.26,10535.12,0,0,0,0.0,New Property,1196.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,10188.68,0,0,0,0.0,New Property,1325.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.7,17845.34,0,0,0,0.0,New Property,1513.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.73,11642.74,0,0,0,0.0,New Property,627.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.44,14876.03,0,0,0,0.0,New Property,968.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,17421.6,0,0,0,0.0,New Property,1435.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,6500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.5,10989.01,0,0,0,0.0,New Property,1365.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.9,17639.08,0,0,0,0.0,,2211.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,22988.51,0,0,0,0.0,New Property,1740.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,12500.0,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.51,108.47,0,0,0,0.0,New Property,47017.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,9333.33,0,0,0,0.0,New Property,750.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.6,16300.94,0,0,0,0.0,New Property,1595.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.58,10668.47,0,0,0,0.0,New Property,1481.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,12454.21,0,0,0,0.0,New Property,1365.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.27,12971.43,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.35,11297.07,0,0,0,0.0,New Property,1195.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.55,4166.67,0,0,0,0.0,New Property,1320.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.25,16233.77,0,0,0,0.0,New Property,2002.0,0,0,0,0,0,,0
+flat,,,0.72,12080.54,0,0,0,0.0,New Property,596.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.6,13333.33,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.32,14715.72,0,0,0,0.0,New Property,897.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.35,9336.1,0,0,0,0.0,New Property,1446.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,11961.72,0,0,0,0.0,New Property,1463.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,11155.73,0,0,0,0.0,New Property,2241.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.7,5083.51,0,0,0,0.0,New Property,1377.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.3,14582.41,0,0,0,0.0,,2263.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.05,14112.9,0,0,0,0.0,New Property,744.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.87,8697.67,0,0,0,0.0,New Property,2150.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,18132.37,0,0,0,0.0,New Property,1103.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.75,45000.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Furnished,15
+flat,,,1.4,12727.27,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,6666.67,0,0,0,0.0,,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.0,17844.4,0,0,0,0.0,New Property,2802.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.75,18109.04,0,0,0,0.0,New Property,2623.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,13478.26,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.5,34695.45,0,0,0,0.0,,1297.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.75,12254.9,0,0,0,0.0,New Property,1428.0,0,0,0,0,0,Furnished,15
+flat,,,0.58,10338.68,0,0,0,0.0,New Property,561.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.72,24205.13,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,11698.11,0,0,0,0.0,New Property,1325.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.85,15593.36,0,0,0,0.0,,2469.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.55,13151.11,0,0,0,0.0,New Property,1939.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,22727.27,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Furnished,15
+flat,,,4.0,18273.18,0,0,0,0.0,New Property,2189.0,0,0,0,0,0,Furnished,15
+flat,,,1.6,10666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.905,14549.84,0,0,0,0.0,New Property,622.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,6525.29,0,0,0,0.0,New Property,1226.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.3,21021.02,0,0,0,0.0,New Property,2997.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,4733.73,0,0,0,0.0,New Property,1690.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.6,3000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.5,12000.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Furnished,15
+flat,,,4.4,23706.9,0,0,0,0.0,,1856.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,12668.92,0,0,0,0.0,New Property,1184.0,0,0,0,0,0,Furnished,15
+flat,,,2.4,17167.38,0,0,0,0.0,New Property,1398.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,15518.31,0,0,0,0.0,New Property,1611.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.5,5555.56,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.74,12691.47,0,0,0,0.0,New Property,1371.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,1391.96,0,0,0,0.0,New Property,14009.0,0,0,0,0,0,Furnished,15
+flat,,,3.37,18536.85,0,0,0,0.0,New Property,1818.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.96,28120.52,0,0,0,0.0,New Property,697.0,0,0,0,0,0,Furnished,15
+flat,,,1.15,6388.89,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.15,10426.11,0,0,0,0.0,,1103.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.9,16666.67,0,0,0,0.0,New Property,540.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.05,13225.81,0,0,0,2.0,,1550.0,0,0,0,0,0,Furnished,15
+flat,,,5.5,13095.24,0,0,0,0.0,New Property,4200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,12.0,20000.0,0,0,0,0.0,New Property,6000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,19474.2,0,0,0,0.0,New Property,2054.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.31,5299.15,0,0,0,0.0,New Property,585.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,16666.67,0,0,0,0.0,New Property,750.0,0,0,0,0,0,Furnished,15
+flat,,,2.2,13134.33,0,0,0,0.0,New Property,1675.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,17543.86,0,0,0,0.0,New Property,1140.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,11775.79,0,0,0,0.0,New Property,4246.0,0,0,0,0,0,Furnished,15
+flat,,,0.65,11092.15,0,0,0,0.0,New Property,586.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.35,9747.29,0,0,0,0.0,New Property,1385.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.75,8333.33,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.28,13417.19,0,0,0,0.0,New Property,954.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.2,18518.52,0,0,0,0.0,,1728.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,19500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.5,9276.44,0,0,0,0.0,New Property,539.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.05,13870.09,0,0,0,0.0,,1478.0,0,0,0,0,0,Furnished,15
+flat,,,3.69,15702.13,0,0,0,0.0,New Property,2350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.36,19637.64,0,0,0,0.0,New Property,1711.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,13194.44,0,0,0,0.0,New Property,1440.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,14377.0,0,0,0,0.0,,1565.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,14938.49,0,0,0,0.0,,1138.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.8,2074.07,0,0,0,0.0,,13500.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.4,9971.51,0,0,0,0.0,New Property,1404.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.9,22500.0,0,0,0,0.0,New Property,400.0,0,0,0,0,0,Furnished,15
+flat,,,4.99,15593.75,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.25,11507.94,0,0,0,0.0,New Property,6300.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.89,9797.82,0,0,0,0.0,New Property,1929.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,5122.95,0,0,0,0.0,New Property,1952.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.4,33023.74,0,0,0,0.0,,1938.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.0,16666.67,0,0,0,0.0,New Property,6000.0,0,0,0,0,0,Furnished,15
+flat,,,4.5,18367.35,0,0,0,0.0,,2450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,18592.3,0,0,0,0.0,New Property,1506.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.35,17779.99,0,0,0,0.0,New Property,3009.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,17401.39,0,0,0,0.0,New Property,1724.0,0,0,0,0,0,Furnished,15
+flat,,,0.68,11390.28,0,0,0,0.0,New Property,597.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,7647.06,0,0,0,0.0,New Property,3400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,20500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Furnished,15
+flat,,,2.4,11121.41,0,0,0,0.0,New Property,2158.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.56,9605.49,0,0,0,0.0,New Property,583.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.42,15502.18,0,0,0,0.0,New Property,916.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.86,21502.89,0,0,0,0.0,New Property,865.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.35,3888.89,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Furnished,15
+flat,,,2.75,17427.12,0,0,0,0.0,New Property,1578.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.63,10806.17,0,0,0,0.0,New Property,583.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,25000.0,0,0,0,0.0,New Property,2600.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.0,7575.76,0,0,0,0.0,New Property,1320.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.55,6691.0,0,0,0,0.0,New Property,822.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.65,26500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Furnished,15
+flat,,,8.9,17450.98,0,0,0,0.0,New Property,5100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.35,6679.39,0,0,0,0.0,New Property,524.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,18000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,11016.95,0,0,0,0.0,New Property,590.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.15,9794.99,0,0,0,0.0,New Property,2195.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.0,13774.1,0,0,0,0.0,New Property,726.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,10655.74,0,0,0,0.0,New Property,610.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,14079.42,0,0,0,0.0,,1385.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,16176.47,0,0,0,0.0,New Property,3400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,11012.28,0,0,0,0.0,New Property,2361.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.65,15466.1,0,0,0,0.0,New Property,2360.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.05,17156.86,0,0,0,0.0,New Property,612.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,14500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,13000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,11164.27,0,0,0,0.0,New Property,627.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.87,14518.63,0,0,0,0.0,New Property,1288.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,18107.48,0,0,0,0.0,New Property,1712.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,8000.0,0,0,0,0.0,New Property,5000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.65,10138.89,0,0,0,0.0,New Property,3600.0,0,0,0,0,0,Furnished,15
+flat,,,0.9,7627.12,0,0,0,0.0,,1180.0,0,0,0,0,0,Furnished,15
+flat,,,7.5,52891.4,0,0,0,0.0,New Property,1418.0,0,0,0,0,0,Furnished,15
+flat,,,2.09,13483.87,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.9,31200.42,0,0,0,0.0,,1891.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.8,13333.33,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.12,17479.85,0,0,0,0.0,,2357.0,0,0,0,0,0,Furnished,15
+flat,,,0.28,4000.0,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.5,22448.98,0,0,0,0.0,New Property,2450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.35,8536.59,0,0,0,0.0,New Property,410.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.76,40863.61,0,0,0,0.0,,1899.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,14018.69,0,0,0,0.0,New Property,2140.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,14000.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,11839.71,0,0,0,0.0,New Property,549.0,0,0,0,0,0,Unfurnished,15
+flat,,,8.0,20000.0,0,0,0,0.0,New Property,4000.0,0,0,0,0,0,Furnished,15
+flat,,,3.88,28197.67,0,0,0,0.0,New Property,1376.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,11728.4,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,15630.96,0,0,0,0.0,,2623.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.2,14666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.06,10213.19,0,0,0,0.0,New Property,2017.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,9423.19,0,0,0,0.0,New Property,1751.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.23,20992.56,0,0,0,0.0,,2015.0,0,0,0,0,0,Furnished,15
+flat,,,2.9,15675.68,0,0,0,0.0,New Property,1850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,11574.07,0,0,0,0.0,New Property,2160.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.8,18823.53,0,0,0,0.0,,2550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.3,12222.22,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,12213.18,0,0,0,0.0,New Property,1351.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,15165.88,0,0,0,0.0,New Property,1055.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,9681.88,0,0,0,0.0,New Property,723.0,0,0,0,0,0,Furnished,15
+flat,,,2.34,10125.49,0,0,0,0.0,New Property,2311.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.46,6388.89,0,0,0,0.0,New Property,720.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.5,17142.86,0,0,0,0.0,New Property,875.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,18361.58,0,0,0,0.0,New Property,1062.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,12435.23,0,0,0,0.0,New Property,1930.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.5,14880.95,0,0,0,0.0,New Property,2352.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.35,6194.69,0,0,0,0.0,New Property,565.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.6,10050.25,0,0,0,0.0,New Property,597.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,10797.34,0,0,0,0.0,New Property,602.0,0,0,0,0,0,Furnished,15
+flat,,,11.0,41509.43,0,0,0,0.0,New Property,2650.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.27,16282.05,0,0,0,0.0,New Property,780.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,12987.01,0,0,0,0.0,,1848.0,0,0,0,0,0,Furnished,15
+flat,,,0.54,9490.33,0,0,0,0.0,New Property,569.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,10619.47,0,0,0,0.0,New Property,1695.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.55,6470.59,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,9000.0,0,0,0,0.0,,1000.0,0,0,0,0,0,Furnished,15
+flat,,,1.25,12742.1,0,0,0,0.0,New Property,981.0,0,0,0,0,0,Furnished,15
+flat,,,2.3,17037.04,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.4,7777.78,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,9551.8,0,0,0,0.0,New Property,1361.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,14444.44,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Furnished,15
+flat,,,0.35,5443.23,0,0,0,0.0,,643.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.2,11428.57,0,0,0,0.0,,1050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.69,12432.43,0,0,0,0.0,New Property,555.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.6,19693.65,0,0,0,0.0,New Property,1828.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,17187.5,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.75,10561.26,0,0,0,0.0,,1657.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.25,38235.29,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Furnished,15
+flat,,,5.4,22929.94,0,0,0,0.0,,2355.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.52,9908.74,0,0,0,0.0,New Property,1534.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,8325.62,0,0,0,0.0,New Property,1081.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.1,31282.05,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Furnished,15
+flat,,,5.85,22543.35,0,0,0,0.0,,2595.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.53,5888.89,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.95,8788.16,0,0,0,0.0,New Property,1081.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,4744.53,0,0,0,0.0,New Property,1370.0,0,0,0,0,0,Furnished,15
+flat,,,0.85,13281.25,0,0,0,0.0,New Property,640.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,11965.81,0,0,0,0.0,New Property,585.0,0,0,0,0,0,Furnished,15
+flat,,,0.5,10504.2,0,0,0,0.0,New Property,476.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,27591.97,0,0,0,0.0,New Property,598.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.15,10000.0,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,20625.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Furnished,15
+flat,,,2.33,26238.74,0,0,0,0.0,New Property,888.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,17582.42,0,0,0,0.0,,910.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,13242.01,0,0,0,0.0,,1095.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.65,15714.29,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Furnished,15
+flat,,,2.75,13480.39,0,0,0,0.0,New Property,2040.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.55,5500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Furnished,15
+flat,,,0.85,16346.15,0,0,0,0.0,New Property,520.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.85,19012.35,0,0,0,0.0,New Property,2025.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.3,16417.91,0,0,0,0.0,New Property,2010.0,0,0,0,0,0,Furnished,15
+flat,,,0.32,3712.3,0,0,0,0.0,New Property,862.0,0,0,0,0,0,Furnished,15
+flat,,,6.0,13333.33,0,0,0,0.0,New Property,4500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.0,14285.71,0,0,0,0.0,New Property,7000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,10084.03,0,0,0,0.0,,1190.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,27777.78,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,12777.78,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.6,12000.0,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Furnished,15
+flat,,,2.9,18892.51,0,0,0,0.0,New Property,1535.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,14814.81,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,13366.75,0,0,0,0.0,,1197.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,18382.35,0,0,0,0.0,New Property,1360.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,11627.91,0,0,0,0.0,New Property,602.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,20666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.36,10000.0,0,0,0,0.0,New Property,360.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.5,26923.08,0,0,0,0.0,,1300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,15000.0,0,0,0,0.0,,900.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.25,18640.35,0,0,0,0.0,New Property,2280.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,17573.7,0,0,0,0.0,New Property,882.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,7826.09,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.35,5000.0,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,11895.32,0,0,0,0.0,New Property,1261.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.3,16500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,11500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.45,7525.08,0,0,0,0.0,,598.0,0,0,0,0,0,Furnished,15
+flat,,,5.5,21877.49,0,0,0,0.0,,2514.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.15,11885.02,0,0,0,0.0,New Property,1809.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,13456.94,0,0,0,0.0,New Property,1672.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.8,21538.46,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Furnished,15
+flat,,,5.5,14473.68,0,0,0,0.0,New Property,3800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,8992.81,0,0,0,0.0,New Property,2502.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,20131.77,0,0,0,0.0,New Property,1366.0,0,0,0,0,0,,0
+flat,,,2.45,15312.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,8181.82,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.5,23226.35,0,0,0,0.0,New Property,2368.0,0,0,0,0,0,Furnished,15
+flat,,,1.35,10705.79,0,0,0,0.0,New Property,1261.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.35,7368.42,0,0,0,0.0,New Property,475.0,0,0,0,0,0,Furnished,15
+flat,,,1.0,17123.29,0,0,0,0.0,New Property,584.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,12142.86,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.85,12127.66,0,0,0,0.0,New Property,2350.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.45,9846.83,0,0,0,0.0,New Property,457.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.75,19379.84,0,0,0,0.0,New Property,1935.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,15988.37,0,0,0,0.0,New Property,1376.0,0,0,0,0,0,Furnished,15
+flat,,,0.44,7534.25,0,0,0,0.0,New Property,584.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,25777.78,0,0,0,0.0,New Property,1125.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.75,14248.7,0,0,0,0.0,New Property,1930.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.17,27784.89,0,0,0,0.0,,781.0,0,0,0,0,0,Furnished,15
+flat,,,2.4,12030.08,0,0,0,0.0,New Property,1995.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.71,9466.67,0,0,0,0.0,New Property,750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,10.75,41346.15,0,0,0,0.0,New Property,2600.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.95,17455.62,0,0,0,0.0,New Property,1690.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,25415.9,0,0,0,0.0,New Property,2164.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,7186.86,0,0,0,0.0,,1948.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.18,10588.24,0,0,0,0.0,New Property,170.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.05,13666.67,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.35,17241.38,0,0,0,0.0,New Property,203.0,0,0,0,0,0,Furnished,15
+flat,,,1.62,11172.41,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.0,19120.46,0,0,0,0.0,New Property,2092.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.15,13444.3,0,0,0,0.0,New Property,2343.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,10156.25,0,0,0,0.0,New Property,2560.0,0,0,0,0,0,,0
+flat,,,2.5,14450.87,0,0,0,0.0,New Property,1730.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,20758.12,0,0,0,0.0,,1108.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,7339.99,0,0,0,0.0,New Property,1703.0,0,0,0,0,0,,0
+flat,,,0.85,13178.29,0,0,0,0.0,,645.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.1,15000.0,0,0,0,0.0,New Property,3400.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.15,17977.2,0,0,0,0.0,New Property,3421.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,5129.75,0,0,0,0.0,New Property,1657.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.5,20446.1,0,0,0,0.0,,2690.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.85,14049.59,0,0,0,0.0,New Property,605.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,12145.75,0,0,0,0.0,New Property,741.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,13407.82,0,0,0,0.0,New Property,1790.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.62,12400.0,0,0,0,0.0,New Property,500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,28761.06,0,0,0,0.0,New Property,904.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.92,4867.72,0,0,0,0.0,New Property,1890.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.66,21674.42,0,0,0,0.0,,2150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.55,14473.68,0,0,0,0.0,New Property,380.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,13029.32,0,0,0,0.0,,1535.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,10033.44,0,0,0,0.0,New Property,598.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.45,8333.33,0,0,0,0.0,,540.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.85,22007.72,0,0,0,0.0,New Property,1295.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.15,25647.41,0,0,0,0.0,,2008.0,0,0,0,0,0,Furnished,15
+flat,,,1.0,5458.52,0,0,0,0.0,New Property,1832.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,13636.36,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,11373.98,0,0,0,0.0,New Property,2198.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,10734.07,0,0,0,0.0,New Property,1444.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.48,11086.14,0,0,0,0.0,,1335.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,13857.68,0,0,0,0.0,,1335.0,0,0,0,0,0,Furnished,15
+flat,,,2.4,10058.68,0,0,0,0.0,New Property,2386.0,0,0,0,0,0,Furnished,15
+flat,,,3.5,8235.29,0,0,0,0.0,New Property,4250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.05,11680.91,0,0,0,0.0,New Property,1755.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,13366.34,0,0,0,0.0,,1010.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,7017.54,0,0,0,0.0,New Property,1710.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.8,20000.0,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.85,22000.0,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Furnished,15
+flat,,,1.5,18750.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Furnished,15
+flat,,,0.55,4263.57,0,0,0,0.0,New Property,1290.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,15832.81,0,0,0,0.0,New Property,1579.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.72,6492.34,0,0,0,0.0,New Property,1109.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.22,7213.11,0,0,0,0.0,New Property,305.0,0,0,0,0,0,Furnished,15
+flat,,,6.5,41720.15,0,0,0,0.0,New Property,1558.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.44,6864.27,0,0,0,0.0,New Property,641.0,0,0,0,0,0,Furnished,15
+flat,,,4.3,21543.09,0,0,0,0.0,New Property,1996.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.55,16923.08,0,0,0,0.0,New Property,325.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.15,9599.33,0,0,0,0.0,New Property,1198.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.38,15833.33,0,0,0,0.0,New Property,240.0,0,0,0,0,0,Furnished,15
+flat,,,1.9,22067.36,0,0,0,0.0,New Property,861.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,6944.44,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.852,7100.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.45,7500.0,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,11746.99,0,0,0,0.0,New Property,1660.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,20000.0,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,11082.14,0,0,0,0.0,New Property,1534.0,0,0,0,0,0,Furnished,15
+flat,,,7.0,17500.0,0,0,0,0.0,New Property,4000.0,0,0,0,0,0,Furnished,15
+flat,,,1.15,8518.52,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.2,17049.18,0,0,0,0.0,,3050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.17,8666.67,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.3,15891.25,0,0,0,0.0,,5223.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.62,17976.65,0,0,0,0.0,New Property,2570.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,10271.7,0,0,0,0.0,New Property,1509.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,12857.14,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,12605.04,0,0,0,0.0,,1190.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,13765.18,0,0,0,0.0,,1235.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,24038.46,0,0,0,0.0,New Property,1248.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.75,34005.04,0,0,0,0.0,New Property,1985.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.7,21958.46,0,0,0,0.0,New Property,1685.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.56,11689.5,0,0,0,0.0,New Property,2190.0,0,0,0,0,0,Furnished,15
+flat,,,1.15,17692.31,0,0,0,0.0,New Property,650.0,0,0,0,0,0,Furnished,15
+flat,,,1.6,7988.02,0,0,0,0.0,New Property,2003.0,0,0,0,0,0,Furnished,15
+flat,,,0.37,12052.12,0,0,0,0.0,New Property,307.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.95,20557.49,0,0,0,0.0,New Property,1435.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,5179.28,0,0,0,0.0,New Property,1255.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,11320.75,0,0,0,0.0,New Property,2650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.57,12560.0,0,0,0,0.0,,1250.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.0,28000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.75,20514.22,0,0,0,0.0,New Property,1828.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,14860.68,0,0,0,0.0,,1615.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.76,6909.09,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.75,12908.78,0,0,0,0.0,New Property,581.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.44,17000.0,0,0,0,0.0,,3200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,14864.86,0,0,0,0.0,New Property,1480.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.89,13798.45,0,0,0,0.0,New Property,645.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.15,15925.93,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.965,7100.81,0,0,0,0.0,,1359.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.58,12919.38,0,0,0,0.0,New Property,1997.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,16594.52,0,0,0,0.0,New Property,1386.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.25,4166.67,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.48,24284.72,0,0,0,0.0,New Property,1433.0,0,0,0,0,0,Furnished,15
+flat,,,2.0,20768.43,0,0,0,0.0,New Property,963.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.4,88888.89,0,0,0,0.0,New Property,45.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.2,30129.12,0,0,0,0.0,,1394.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.37,18002.63,0,0,0,0.0,,761.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.5,24061.6,0,0,0,0.0,New Property,3117.0,0,0,0,0,0,Furnished,15
+flat,,,2.05,16872.43,0,0,0,0.0,New Property,1215.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,14543.34,0,0,0,0.0,New Property,1719.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,7479.43,0,0,0,0.0,New Property,1337.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,23333.33,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,8555.13,0,0,0,0.0,New Property,1578.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,20348.84,0,0,0,0.0,,1720.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,11786.04,0,0,0,0.0,New Property,1103.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,13755.98,0,0,0,0.0,New Property,1672.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.7,22380.95,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,20979.02,0,0,0,0.0,,1001.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,13333.33,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.8,12958.96,0,0,0,0.0,,1389.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.77,12706.27,0,0,0,0.0,New Property,606.0,0,0,0,0,0,Furnished,15
+flat,,,1.0,5167.96,0,0,0,0.0,New Property,1935.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.75,23148.15,0,0,0,0.0,,2484.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,16666.67,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,15652.17,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.5,5747.13,0,0,0,0.0,New Property,870.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.045,300.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.83,11857.14,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Furnished,15
+flat,,,4.7,18875.5,0,0,0,0.0,New Property,2490.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.75,26250.0,0,0,0,0.0,New Property,6000.0,0,0,0,0,0,,0
+flat,,,2.05,12500.0,0,0,0,0.0,New Property,1640.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,17361.11,0,0,0,0.0,New Property,720.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.5,12711.86,0,0,0,0.0,New Property,1180.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.0,18382.35,0,0,0,0.0,New Property,544.0,0,0,0,0,0,Furnished,15
+flat,,,1.5,11312.22,0,0,0,0.0,New Property,1326.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.05,20500.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,15730.34,0,0,0,0.0,New Property,1335.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.6,150000.0,0,0,0,0.0,New Property,240.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,11875.0,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,26501.77,0,0,0,0.0,,1132.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,17953.32,0,0,0,0.0,New Property,2228.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.75,15677.26,0,0,0,0.0,,2392.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,17992.42,0,0,0,0.0,New Property,1056.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,7692.31,0,0,0,0.0,New Property,8450.0,0,0,0,0,0,Furnished,15
+flat,,,1.46,17196.7,0,0,0,0.0,New Property,849.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,12584.7,0,0,0,0.0,New Property,2066.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,10000.0,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.55,16159.7,0,0,0,0.0,New Property,1578.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,12383.9,0,0,0,0.0,New Property,1615.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.0,42857.14,0,0,0,0.0,,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,28835.06,0,0,0,0.0,New Property,867.0,0,0,0,0,0,Furnished,15
+flat,,,1.7,14285.71,0,0,0,0.0,New Property,1190.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,12935.88,0,0,0,0.0,New Property,1778.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,16322.09,0,0,0,0.0,New Property,919.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,12195.12,0,0,0,0.0,New Property,2050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,87500.0,0,0,0,0.0,New Property,80.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,7142.86,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,8064.52,0,0,0,0.0,New Property,744.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,17368.42,0,0,0,0.0,New Property,950.0,0,0,0,0,0,Furnished,15
+flat,,,0.485,14434.52,0,0,0,0.0,New Property,336.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.44,12222.22,0,0,0,0.0,New Property,360.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,11924.12,0,0,0,0.0,,1845.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.16,15283.27,0,0,0,0.0,New Property,759.0,0,0,0,0,0,Furnished,15
+flat,,,2.9,19701.09,0,0,0,0.0,New Property,1472.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.25,18333.33,0,0,0,0.0,New Property,4500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.19,9049.43,0,0,0,0.0,New Property,1315.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.4,17647.06,0,0,0,0.0,New Property,1360.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.83,4737.44,0,0,0,0.0,New Property,1752.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.2,9302.33,0,0,0,0.0,,1290.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.66,19787.69,0,0,0,0.0,,2355.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.45,7812.5,0,0,0,0.0,New Property,576.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,25982.26,0,0,0,0.0,,1578.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.85,18743.91,0,0,0,0.0,New Property,2054.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.75,16666.67,0,0,0,0.0,New Property,2250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,60.0,195121.95,0,0,0,0.0,,3075.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.57,10035.21,0,0,0,0.0,New Property,568.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.19,21023.58,0,0,0,0.0,,1993.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.02,31317.83,0,0,0,0.0,,645.0,0,0,0,0,0,Furnished,15
+flat,,,0.95,7307.69,0,0,0,0.0,,1300.0,0,0,0,0,0,,0
+flat,,,3.8,11065.81,0,0,0,0.0,New Property,3434.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.09,4090.91,0,0,0,0.0,New Property,220.0,0,0,0,0,0,,0
+flat,,,1.7,16504.85,0,0,0,0.0,New Property,1030.0,0,0,0,0,0,Furnished,15
+flat,,,1.35,24545.45,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Furnished,15
+flat,,,3.45,16530.91,0,0,0,0.0,New Property,2087.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,16346.15,0,0,0,0.0,New Property,1040.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,15842.84,0,0,0,0.0,New Property,1578.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,13123.36,0,0,0,0.0,New Property,3048.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.35,17938.93,0,0,0,0.0,New Property,1310.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,5925.93,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,17554.86,0,0,0,0.0,New Property,1595.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.6,12578.62,0,0,0,0.0,,477.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.56,8903.02,0,0,0,0.0,New Property,629.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.5,17500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,9304.21,0,0,0,0.0,New Property,1236.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.45,10044.64,0,0,0,0.0,New Property,448.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.55,15828.68,0,0,0,0.0,New Property,1611.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.5,15217.39,0,0,0,0.0,New Property,2300.0,0,0,0,0,0,Furnished,15
+flat,,,1.38,23000.0,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Unfurnished,15
+flat,,,8.2,45555.56,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Furnished,15
+flat,,,3.74,17980.77,0,0,0,0.0,,2080.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,13962.26,0,0,0,0.0,,1325.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,21150.59,0,0,0,0.0,New Property,591.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,8823.53,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,13616.56,0,0,0,0.0,New Property,1836.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.54,15400.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Furnished,15
+flat,,,1.95,15853.66,0,0,0,0.0,,1230.0,0,0,0,0,0,Furnished,15
+flat,,,1.0,7352.94,0,0,0,0.0,New Property,1360.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.39,8967.74,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,17667.84,0,0,0,0.0,New Property,849.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,13221.15,0,0,0,0.0,,2080.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.255,3923.08,0,0,0,0.0,New Property,650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,16844.7,0,0,0,0.0,,2434.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.6,23080.78,0,0,0,0.0,,1993.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.72,9664.43,0,0,0,0.0,New Property,745.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,10561.89,0,0,0,0.0,New Property,2367.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.12,4962.34,0,0,0,0.0,,2257.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.99,19117.65,0,0,0,0.0,New Property,1564.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,16033.55,0,0,0,0.0,New Property,2027.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.57,26770.83,0,0,0,0.0,New Property,960.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.7,23500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.24,10247.93,0,0,0,0.0,,1210.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.87,19206.04,0,0,0,0.0,,3577.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,7407.41,0,0,0,0.0,New Property,2025.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.87,9529.03,0,0,0,0.0,New Property,913.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.9,19500.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,12680.12,0,0,0,0.0,New Property,1735.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.64,12139.16,0,0,0,0.0,New Property,1351.0,0,0,0,0,0,Furnished,15
+flat,,,1.35,8571.43,0,0,0,0.0,New Property,1575.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,12345.68,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,11149.83,0,0,0,0.0,New Property,1435.0,0,0,0,0,0,Furnished,15
+flat,,,1.5,13599.27,0,0,0,0.0,New Property,1103.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,11555.13,0,0,0,0.0,New Property,2077.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.75,12777.78,0,0,0,0.0,New Property,4500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,14473.68,0,0,0,0.0,New Property,760.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,14285.71,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,10461.76,0,0,0,0.0,New Property,1386.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.85,5246.91,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.76,11733.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,16400.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Furnished,15
+flat,,,1.0,9090.91,0,0,0,0.0,,1100.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.05,9375.0,0,0,0,0.0,New Property,1120.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.2,16923.08,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.66,19020.41,0,0,0,0.0,,2450.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.9,14339.62,0,0,0,0.0,New Property,1325.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,10952.38,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.7,19565.22,0,0,0,0.0,New Property,1380.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.34,12407.41,0,0,0,0.0,New Property,1080.0,0,0,0,0,0,,0
+flat,,,2.5,15822.78,0,0,0,0.0,New Property,1580.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.4,7220.22,0,0,0,0.0,New Property,554.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.7,12230.22,0,0,0,0.0,New Property,1390.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.7,27589.55,0,0,0,0.0,New Property,2066.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.62,13624.54,0,0,0,0.0,,1923.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,4129.79,0,0,0,0.0,,1695.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.4,15968.06,0,0,0,0.0,New Property,1503.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,16921.84,0,0,0,0.0,New Property,1241.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,6688.96,0,0,0,0.0,New Property,2093.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.5,7664.79,0,0,0,0.0,New Property,1957.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,9021.84,0,0,0,0.0,New Property,2106.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,11607.14,0,0,0,0.0,New Property,1120.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,11917.1,0,0,0,0.0,New Property,1930.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,16871.17,0,0,0,0.0,,1304.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.4,5000.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.2,8048.29,0,0,0,0.0,New Property,1491.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.45,18125.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,19178.08,0,0,0,0.0,New Property,730.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.32,5333.33,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.4,19512.2,0,0,0,0.0,,1230.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,14953.27,0,0,0,0.0,New Property,2675.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.5,26000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Furnished,15
+flat,,,0.82,12538.23,0,0,0,0.0,New Property,654.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,11299.44,0,0,0,0.0,New Property,531.0,0,0,0,0,0,Furnished,15
+flat,,,2.1,18260.87,0,0,0,0.0,New Property,1150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,10416.67,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,9090.91,0,0,0,0.0,New Property,1485.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.54,20000.0,0,0,0,0.0,,3270.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,10185.19,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,17184.4,0,0,0,0.0,New Property,1513.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,11666.67,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Furnished,15
+flat,,,1.45,8950.62,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,31.0,76543.21,0,0,0,0.0,New Property,4050.0,0,0,0,0,0,,0
+flat,,,1.3,8678.24,0,0,0,0.0,New Property,1498.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.2,18968.58,0,0,0,0.0,New Property,1687.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.35,34695.2,0,0,0,0.0,New Property,1542.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,21634.62,0,0,0,0.0,New Property,2080.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.95,15702.48,0,0,0,0.0,,605.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.85,24869.11,0,0,0,0.0,New Property,1146.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.52,11692.31,0,0,0,0.0,New Property,1300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,12845.22,0,0,0,0.0,New Property,1557.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,16455.7,0,0,0,0.0,New Property,1185.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.5,19582.25,0,0,0,0.0,,2298.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,20512.82,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.79,9875.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,11658.03,0,0,0,0.0,New Property,1930.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.88,6758.83,0,0,0,0.0,New Property,1302.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,15.0,50000.0,0,0,0,0.0,,3000.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.0,21090.69,0,0,0,0.0,New Property,3319.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,12123.75,0,0,0,0.0,New Property,1196.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.99,21743.87,0,0,0,0.0,,1835.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.85,13919.02,0,0,0,0.0,,2766.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,11191.34,0,0,0,0.0,New Property,1385.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.0,17094.02,0,0,0,0.0,,585.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.6,12213.74,0,0,0,0.0,,1310.0,0,0,0,0,0,Furnished,15
+flat,,,3.68,16958.53,0,0,0,0.0,,2170.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.28,10448.98,0,0,0,0.0,New Property,1225.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.6,15483.87,0,0,0,0.0,New Property,2325.0,0,0,0,0,0,Furnished,15
+flat,,,3.0,15789.47,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,9739.13,0,0,0,0.0,New Property,2875.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,13333.33,0,0,0,0.0,New Property,1125.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,17175.57,0,0,0,0.0,,1310.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,100000.0,0,0,0,0.0,,210.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.75,13636.36,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Furnished,15
+flat,,,2.35,13888.89,0,0,0,0.0,New Property,1692.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,29473.68,0,0,0,0.0,New Property,950.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.75,13751.38,0,0,0,0.0,New Property,2727.0,0,0,0,0,0,Furnished,15
+flat,,,0.3,6342.49,0,0,0,0.0,New Property,473.0,0,0,0,0,0,Furnished,15
+flat,,,4.3,19170.75,0,0,0,0.0,,2243.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,8148.15,0,0,0,0.0,New Property,2700.0,0,0,0,0,0,Furnished,15
+flat,,,3.2,28169.01,0,0,0,0.0,New Property,1136.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,15555.56,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.83,11090.91,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.97,7918.37,0,0,0,0.0,New Property,1225.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.1,16734.69,0,0,0,0.0,,2450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.75,23958.33,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.88,12965.52,0,0,0,0.0,,1450.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.49,14944.83,0,0,0,0.0,New Property,997.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,11617.52,0,0,0,0.0,New Property,1119.0,0,0,0,0,0,,0
+flat,,,2.4,13259.67,0,0,0,0.0,New Property,1810.0,0,0,0,0,0,Furnished,15
+flat,,,3.5,10513.67,0,0,0,0.0,New Property,3329.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.9,15466.67,0,0,0,0.0,New Property,1875.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.55,18545.45,0,0,0,0.0,New Property,1375.0,0,0,0,0,0,Furnished,15
+flat,,,4.07,16728.32,0,0,0,0.0,New Property,2433.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.38,17000.0,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.39,26555.56,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,13888.89,0,0,0,0.0,New Property,1440.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.58,12276.61,0,0,0,0.0,New Property,1287.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.6,20785.22,0,0,0,0.0,New Property,1732.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,11194.03,0,0,0,0.0,New Property,1340.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,12916.67,0,0,0,0.0,,2400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.899,5993.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Furnished,15
+flat,,,3.25,23879.5,0,0,0,0.0,New Property,1361.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.45,16965.31,0,0,0,0.0,,2623.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.76,10872.68,0,0,0,0.0,New Property,699.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.87,12985.07,0,0,0,0.0,New Property,670.0,0,0,0,0,0,Furnished,15
+flat,,,0.9,6949.81,0,0,0,0.0,New Property,1295.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.7,13861.39,0,0,0,0.0,New Property,505.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.72,9473.68,0,0,0,0.0,New Property,760.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.78,6695.28,0,0,0,0.0,New Property,1165.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,14457.83,0,0,0,0.0,New Property,1660.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,19565.22,0,0,0,0.0,New Property,2300.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.7,14985.82,0,0,0,0.0,,2469.0,0,0,0,0,0,Furnished,15
+flat,,,2.65,11894.08,0,0,0,0.0,New Property,2228.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.22,4888.89,0,0,0,0.0,New Property,450.0,0,0,0,0,0,Furnished,15
+flat,,,3.2,45714.29,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.85,18307.18,0,0,0,0.0,New Property,2103.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.85,13703.7,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Furnished,15
+flat,,,1.08,12067.04,0,0,0,0.0,New Property,895.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,12645.91,0,0,0,0.0,New Property,514.0,0,0,0,0,0,Furnished,15
+flat,,,3.2,16000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Furnished,15
+flat,,,1.55,11549.93,0,0,0,0.0,New Property,1342.0,0,0,0,0,0,Furnished,15
+flat,,,1.85,18974.36,0,0,0,0.0,New Property,975.0,0,0,0,0,0,Furnished,15
+flat,,,1.5,10344.83,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.79,4324.03,0,0,0,0.0,,1827.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.1,8560.31,0,0,0,0.0,New Property,1285.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,9722.22,0,0,0,0.0,New Property,720.0,0,0,0,0,0,Furnished,15
+flat,,,0.95,9989.48,0,0,0,0.0,New Property,951.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.05,19501.28,0,0,0,0.0,New Property,1564.0,0,0,0,0,0,Furnished,15
+flat,,,0.75,11682.24,0,0,0,0.0,New Property,642.0,0,0,0,0,0,Unfurnished,15
+flat,,,24.0,35955.06,0,0,0,0.0,New Property,6675.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.7,13846.15,0,0,0,0.0,New Property,1950.0,0,0,0,0,0,Furnished,15
+flat,,,2.34,12843.03,0,0,0,0.0,New Property,1822.0,0,0,0,0,0,Furnished,15
+flat,,,1.4,11200.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,13020.83,0,0,0,0.0,New Property,1920.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.1,18235.29,0,0,0,0.0,,1700.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.45,14637.25,0,0,0,0.0,,2357.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.03,21477.37,0,0,0,0.0,,2342.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.5,16868.43,0,0,0,0.0,New Property,5039.0,0,0,0,0,0,Furnished,15
+flat,,,2.2,17432.65,0,0,0,0.0,,1262.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.65,13750.0,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.4,8752.74,0,0,0,0.0,New Property,457.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,10975.61,0,0,0,0.0,New Property,1640.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,46296.3,0,0,0,0.0,New Property,540.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.7,5200.59,0,0,0,0.0,,1346.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.9,17873.94,0,0,0,0.0,New Property,1063.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.4,13600.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,21176.47,0,0,0,0.0,,850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.37,9273.18,0,0,0,0.0,New Property,399.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,15294.12,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Furnished,15
+flat,,,1.58,13199.67,0,0,0,0.0,New Property,1197.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,10928.96,0,0,0,0.0,New Property,549.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,12432.43,0,0,0,0.0,New Property,1850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.846,4801.36,0,0,0,0.0,,1762.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.4,31428.57,0,0,0,0.0,,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.95,5617.98,0,0,0,0.0,,1691.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.16,11047.62,0,0,0,0.0,New Property,1050.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.48,11437.4,0,0,0,0.0,New Property,1294.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.03,15505.96,0,0,0,0.0,,2599.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.56,14000.0,0,0,0,0.0,New Property,400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,18018.02,0,0,0,0.0,,1665.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,9061.49,0,0,0,0.0,,1545.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.3,24546.42,0,0,0,0.0,New Property,937.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.7,20888.89,0,0,0,0.0,,2250.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.9,16939.25,0,0,0,0.0,New Property,1712.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.205,1025.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Furnished,15
+flat,,,2.8,11759.76,0,0,0,0.0,New Property,2381.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.2,24705.88,0,0,0,0.0,New Property,1700.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,14272.12,0,0,0,0.0,New Property,2102.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,13440.86,0,0,0,0.0,New Property,1488.0,0,0,0,0,0,Furnished,15
+flat,,,1.7,7751.94,0,0,0,0.0,New Property,2193.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.4,13461.54,0,0,0,0.0,New Property,1040.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.02,8521.3,0,0,0,0.0,,1197.0,0,0,0,0,0,Furnished,15
+flat,,,0.72,10859.73,0,0,0,0.0,New Property,663.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,4583.79,0,0,0,0.0,New Property,2727.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,11890.24,0,0,0,0.0,New Property,1640.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.55,55000.0,0,0,0,0.0,New Property,100.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.1,11000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,15555.56,0,0,0,0.0,,2250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,15873.02,0,0,0,0.0,,1260.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.0,10434.78,0,0,0,0.0,New Property,2875.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.26,7200.0,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,18000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,9285.71,0,0,0,0.0,New Property,700.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.02,94.12,0,0,0,0.0,New Property,2125.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,11804.83,0,0,0,0.0,,1906.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,19259.26,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,8984.38,0,0,0,0.0,New Property,1280.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.36,10264.15,0,0,0,0.0,New Property,1325.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,11224.49,0,0,0,0.0,,4900.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,25000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Furnished,15
+flat,,,0.65,11265.16,0,0,0,0.0,New Property,577.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.35,7438.02,0,0,0,0.0,New Property,1815.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.65,22853.19,0,0,0,0.0,New Property,722.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,12311.56,0,0,0,0.0,New Property,1990.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,4013.38,0,0,0,0.0,,1495.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.0,10204.08,0,0,0,0.0,New Property,980.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.62,12062.26,0,0,0,0.0,New Property,514.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,250000.0,0,0,0,0.0,New Property,100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.5,25125.63,0,0,0,0.0,New Property,2985.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,17468.94,0,0,0,0.0,New Property,1288.0,0,0,0,0,0,Furnished,15
+flat,,,2.75,18991.71,0,0,0,0.0,New Property,1448.0,0,0,0,0,0,Furnished,15
+flat,,,7.5,16304.35,0,0,0,0.0,New Property,4600.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.55,16017.59,0,0,0,0.0,,1592.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,16049.38,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,9791.92,0,0,0,0.0,New Property,1634.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.9,13181.82,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,9000.0,0,0,0,0.0,New Property,5000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.3,8253.97,0,0,0,0.0,New Property,1575.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,12396.69,0,0,0,0.0,New Property,605.0,0,0,0,0,0,Furnished,15
+flat,,,1.75,25849.34,0,0,0,0.0,,677.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,13037.81,0,0,0,0.0,,1534.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.28,17584.22,0,0,0,0.0,,2434.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.45,19051.32,0,0,0,0.0,,1286.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.45,13119.53,0,0,0,0.0,New Property,343.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,8970.98,0,0,0,0.0,New Property,1895.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,11979.17,0,0,0,0.0,New Property,1920.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.5,3448.28,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,20408.16,0,0,0,0.0,New Property,1470.0,0,0,0,0,0,Furnished,15
+flat,,,4.45,18464.73,0,0,0,0.0,New Property,2410.0,0,0,0,0,0,Furnished,15
+flat,,,0.4,4000.0,0,0,0,0.0,New Property,1000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,16129.03,0,0,0,0.0,New Property,465.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,19767.44,0,0,0,0.0,,2150.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,14520.81,0,0,0,0.0,New Property,2066.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,6.3,22427.91,0,0,0,0.0,,2809.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.53,18422.12,0,0,0,0.0,,2459.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.25,39062.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,9275.36,0,0,0,0.0,New Property,1725.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.0,5235.6,0,0,0,0.0,,1910.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,12649.33,0,0,0,0.0,New Property,1423.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.8,6584.36,0,0,0,0.0,New Property,1215.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,9174.31,0,0,0,0.0,New Property,1635.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.95,20299.15,0,0,0,0.0,New Property,468.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,18064.52,0,0,0,0.0,New Property,1550.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,16666.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.05,9545.45,0,0,0,0.0,New Property,1100.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,13513.51,0,0,0,0.0,New Property,1850.0,0,0,0,0,0,Furnished,15
+flat,,,0.69,11815.07,0,0,0,0.0,,584.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.7,29272.15,0,0,0,0.0,,1264.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.31,10000.0,0,0,0,0.0,New Property,1310.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.4,7954.55,0,0,0,0.0,New Property,1760.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,8902.08,0,0,0,0.0,New Property,1011.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.15,8214.29,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Furnished,15
+flat,,,2.9,19333.33,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,23448.77,0,0,0,0.0,New Property,1386.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,38709.68,0,0,0,0.0,New Property,775.0,0,0,0,0,0,Furnished,15
+flat,,,6.45,45041.9,0,0,0,0.0,New Property,1432.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.21,11666.67,0,0,0,0.0,New Property,180.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.2,10000.0,0,0,0,0.0,New Property,200.0,0,0,0,0,0,Furnished,15
+flat,,,0.4,6153.85,0,0,0,0.0,New Property,650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,12040.28,0,0,0,0.0,New Property,2284.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.35,11767.65,0,0,0,0.0,New Property,1997.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.7,19354.84,0,0,0,0.0,New Property,1395.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.15,23019.96,0,0,0,0.0,New Property,3106.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,8417.51,0,0,0,0.0,New Property,5940.0,0,0,0,0,0,Furnished,15
+flat,,,5.5,12222.22,0,0,0,0.0,New Property,4500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.18,12784.4,0,0,0,0.0,New Property,923.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.36,19988.1,0,0,0,0.0,,1681.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,13402.06,0,0,0,0.0,New Property,1455.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.6,28750.0,0,0,0,0.0,,1600.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.3,10151.09,0,0,0,0.0,New Property,4236.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.86,7306.71,0,0,0,0.0,,1177.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.95,10684.93,0,0,0,0.0,New Property,1825.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.3,18243.53,0,0,0,0.0,,2357.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.0,15355.09,0,0,0,0.0,,5210.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,11111.11,0,0,0,0.0,,1350.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.5,20000.0,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,16.44,14945.45,0,0,0,0.0,New Property,11000.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.285,5219.78,0,0,0,0.0,New Property,546.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.65,8114.86,0,0,0,0.0,New Property,801.0,0,0,0,0,0,Furnished,15
+flat,,,2.01,12256.1,0,0,0,0.0,,1640.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.4,14141.41,0,0,0,0.0,New Property,990.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.3,22000.0,0,0,0,0.0,New Property,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.3,25728.16,0,0,0,0.0,New Property,2060.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.95,19155.84,0,0,0,0.0,New Property,1540.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.25,29220.78,0,0,0,0.0,New Property,770.0,0,0,0,0,0,Furnished,15
+flat,,,1.75,9210.53,0,0,0,0.0,New Property,1900.0,0,0,0,0,0,Furnished,15
+flat,,,1.2,6504.07,0,0,0,0.0,New Property,1845.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.7,9648.13,0,0,0,0.0,New Property,1762.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.0,16528.93,0,0,0,0.0,New Property,1210.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,11620.19,0,0,0,0.0,New Property,1506.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,17123.29,0,0,0,0.0,,2628.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,7.0,10000.0,0,0,0,0.0,New Property,7000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,24660.91,0,0,0,0.0,New Property,811.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,17021.28,0,0,0,0.0,New Property,2350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,33.0,164179.1,0,0,0,0.0,New Property,2010.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.06,21020.41,0,0,0,0.0,,980.0,0,0,0,0,0,Furnished,15
+flat,,,2.95,12291.67,0,0,0,0.0,New Property,2400.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.7,5239.52,0,0,0,0.0,New Property,1336.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.4,12000.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.52,11437.17,0,0,0,0.0,New Property,1329.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,9952.23,0,0,0,0.0,New Property,2512.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.4,21739.13,0,0,0,0.0,New Property,1104.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.813,4897.59,0,0,0,0.0,New Property,1660.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,8903.13,0,0,0,0.0,New Property,1404.0,0,0,0,0,0,Furnished,15
+flat,,,2.0,24691.36,0,0,0,0.0,New Property,810.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.55,19807.28,0,0,0,0.0,New Property,2802.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.36,5538.46,0,0,0,0.0,New Property,650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,19480.52,0,0,0,0.0,New Property,770.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.4,17391.3,0,0,0,0.0,New Property,230.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.6,7407.41,0,0,0,0.0,New Property,810.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.25,16071.43,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Furnished,15
+flat,,,3.5,10937.5,0,0,0,0.0,New Property,3200.0,0,0,0,0,0,Furnished,15
+flat,,,3.0,16759.78,0,0,0,0.0,New Property,1790.0,0,0,0,0,0,Furnished,15
+flat,,,2.5,83333.33,0,0,0,0.0,New Property,300.0,0,0,0,0,0,Furnished,15
+flat,,,3.2,19058.96,0,0,0,0.0,,1679.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,8522.73,0,0,0,0.0,New Property,1760.0,0,0,0,0,0,Unfurnished,15
+flat,,,8.5,38636.36,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.1,15089.16,0,0,0,0.0,New Property,729.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,11942.68,0,0,0,0.0,New Property,2512.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.0,18987.34,0,0,0,0.0,New Property,1580.0,0,0,0,0,0,Furnished,15
+flat,,,1.26,5994.29,0,0,0,0.0,,2102.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.3,26436.78,0,0,0,0.0,New Property,870.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,12222.22,0,0,0,0.0,,2250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.35,5993.15,0,0,0,0.0,New Property,584.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.1,20961.15,0,0,0,0.0,New Property,1956.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.6,14054.05,0,0,0,0.0,,1850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,15527.95,0,0,0,0.0,New Property,1610.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.87,10235.29,0,0,0,0.0,New Property,850.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.84,34940.86,0,0,0,0.0,New Property,1099.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.95,12524.08,0,0,0,0.0,New Property,1557.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.5,14272.12,0,0,0,0.0,New Property,3153.0,0,0,0,0,0,Furnished,15
+flat,,,1.35,9000.0,0,0,0,0.0,,1500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,6670.22,0,0,0,0.0,New Property,1874.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.26,11530.61,0,0,0,0.0,New Property,1960.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.65,10833.33,0,0,0,0.0,New Property,600.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.9,10000.0,0,0,0,0.0,New Property,900.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,21079.26,0,0,0,0.0,New Property,593.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.6,12857.14,0,0,0,0.0,New Property,2800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.3,13636.36,0,0,0,0.0,New Property,220.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.4,10256.41,0,0,0,0.0,New Property,1365.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.8,10000.0,0,0,0,0.0,New Property,800.0,0,0,0,0,0,Furnished,15
+flat,,,3.0,11001.1,0,0,0,0.0,New Property,2727.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.9,13980.87,0,0,0,0.0,,1359.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.38,12338.03,0,0,0,0.0,New Property,3550.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.25,22388.06,0,0,0,0.0,New Property,2345.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,5.0,15822.78,0,0,0,0.0,New Property,3160.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,19920.32,0,0,0,0.0,New Property,1255.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.9,22571.43,0,0,0,0.0,New Property,3500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.6,8791.21,0,0,0,0.0,,1820.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.4,14666.67,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Furnished,15
+flat,,,2.8,16969.7,0,0,0,0.0,New Property,1650.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.7,6714.29,0,0,0,0.0,New Property,7000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.75,12962.96,0,0,0,0.0,New Property,1350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.2,10204.08,0,0,0,0.0,New Property,1176.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.22,9777.78,0,0,0,0.0,New Property,225.0,0,0,0,0,0,Furnished,15
+flat,,,3.44,17286.43,0,0,0,0.0,,1990.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.73,121666.67,0,0,0,0.0,New Property,60.0,0,0,0,0,0,Furnished,15
+flat,,,6.0,22304.83,0,0,0,0.0,New Property,2690.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,8571.43,0,0,0,0.0,New Property,1750.0,0,0,0,0,0,Furnished,15
+flat,,,1.7,9214.09,0,0,0,0.0,,1845.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.15,16830.07,0,0,0,0.0,New Property,3060.0,0,0,0,0,0,Furnished,15
+flat,,,2.2,9220.45,0,0,0,0.0,New Property,2386.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.65,10268.56,0,0,0,0.0,New Property,633.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,21666.67,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.47,26766.47,0,0,0,0.0,,1670.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,5882.35,0,0,0,0.0,New Property,1530.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,13.5,15214.7,0,0,0,0.0,New Property,8873.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.71,13680.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.72,17053.29,0,0,0,0.0,New Property,1595.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.5,10252.9,0,0,0,0.0,New Property,1463.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.92,10940.17,0,0,0,0.0,New Property,1755.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,9.0,18750.0,0,0,0,0.0,New Property,4800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.25,22727.27,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,23214.29,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,20000.0,0,0,0,0.0,,1250.0,0,0,0,0,0,Unfurnished,15
+flat,,,5.5,25404.16,0,0,0,0.0,New Property,2165.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.25,12310.61,0,0,0,0.0,New Property,2640.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.9,14320.99,0,0,0,0.0,New Property,2025.0,0,0,0,0,0,Furnished,15
+flat,,,1.2,26666.67,0,0,0,0.0,New Property,450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,13611.11,0,0,0,0.0,New Property,1800.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.1,14788.73,0,0,0,0.0,New Property,1420.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.9,12000.0,0,0,0,0.0,New Property,750.0,0,0,0,0,0,Furnished,15
+flat,,,4.15,41417.17,0,0,0,0.0,,1002.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.45,10357.14,0,0,0,0.0,New Property,1400.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.78,7123.29,0,0,0,0.0,New Property,1095.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,11419.75,0,0,0,0.0,New Property,1620.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.55,9482.76,0,0,0,0.0,New Property,580.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.8,31666.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.8,19310.34,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.75,10000.0,0,0,0,0.0,,2750.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.65,13086.42,0,0,0,0.0,New Property,2025.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.75,14450.87,0,0,0,0.0,New Property,519.0,0,0,0,0,0,Furnished,15
+flat,,,1.8,12465.37,0,0,0,0.0,New Property,1444.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.85,11897.11,0,0,0,0.0,New Property,1555.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.15,7516.34,0,0,0,0.0,New Property,1530.0,0,0,0,0,0,Unfurnished,15
+flat,,,12.0,18897.64,0,0,0,0.0,New Property,6350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.55,12400.0,0,0,0,0.0,New Property,1250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.598,3986.67,0,0,0,0.0,,1500.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.28,5090.91,0,0,0,0.0,New Property,550.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.09,3272.73,0,0,0,0.0,,275.0,0,0,0,0,0,Unfurnished,15
+flat,,,7.3,17380.95,0,0,0,0.0,New Property,4200.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.5,6818.18,0,0,0,0.0,New Property,2200.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.01,17063.83,0,0,0,0.0,,2350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.45,10888.89,0,0,0,0.0,New Property,2250.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.0,13123.36,0,0,0,0.0,New Property,1524.0,0,0,0,0,0,Furnished,15
+flat,,,0.4,7042.25,0,0,0,0.0,New Property,568.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.0,15564.2,0,0,0,0.0,New Property,2570.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.78,12168.49,0,0,0,0.0,New Property,641.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.25,16209.0,0,0,0,0.0,New Property,2622.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,1.8,12413.79,0,0,0,0.0,New Property,1450.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,21204.41,0,0,0,0.0,New Property,1179.0,0,0,0,0,0,Furnished,15
+flat,,,0.618,4401.71,0,0,0,0.0,New Property,1404.0,0,0,0,0,0,,0
+flat,,,0.11,4888.89,0,0,0,0.0,New Property,225.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.25,6756.76,0,0,0,0.0,New Property,1850.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.2,4938.27,0,0,0,0.0,New Property,405.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,8.0,21563.34,0,0,0,0.0,,3710.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,4.02,15325.96,0,0,0,0.0,,2623.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.77,6470.59,0,0,0,0.0,New Property,1190.0,0,0,0,0,0,Furnished,15
+flat,,,1.55,10163.93,0,0,0,0.0,,1525.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.2,9361.7,0,0,0,0.0,New Property,2350.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,2.5,11904.76,0,0,0,0.0,New Property,2100.0,0,0,0,0,0,Furnished,15
+flat,,,1.5,7853.4,0,0,0,0.0,New Property,1910.0,0,0,0,0,0,Unfurnished,15
+flat,,,13.0,52000.0,0,0,0,0.0,New Property,2500.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,3.5,22222.22,0,0,0,0.0,New Property,1575.0,0,0,0,0,0,Semi-Furnished,8
+flat,,,0.62,15979.38,0,0,0,0.0,New Property,388.0,0,0,0,0,0,Furnished,15
+flat,,,3.1,13478.26,0,0,0,0.0,New Property,2300.0,0,0,0,0,0,Furnished,15
+flat,,,3.2,16359.92,0,0,0,0.0,New Property,1956.0,0,0,0,0,0,Furnished,15
+flat,,,13.36,24500.28,0,0,0,0.0,New Property,5453.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.07,14738.29,0,0,0,0.0,New Property,726.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.9,13000.0,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.8,9879.25,0,0,0,0.0,New Property,1822.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.68,20034.25,0,0,0,0.0,New Property,2336.0,0,0,0,0,0,Unfurnished,15
+flat,,,18.41,24895.2,0,0,0,0.0,New Property,7395.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.64,13720.32,0,0,0,0.0,New Property,2653.0,0,0,0,0,0,Unfurnished,15
+flat,,,6.5,20967.74,0,0,0,0.0,New Property,3100.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.41,12050.0,0,0,0,0.0,New Property,2000.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.1,10784.31,0,0,0,0.0,New Property,1020.0,0,0,0,0,0,Unfurnished,15
+flat,,,0.991,13391.89,0,0,0,0.0,New Property,740.0,0,0,0,0,0,Unfurnished,15
+flat,,,1.75,12110.73,0,0,0,0.0,New Property,1445.0,0,0,0,0,0,Unfurnished,15
+flat,,,2.5,19531.25,0,0,0,0.0,New Property,1280.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.77,23562.5,0,0,0,0.0,New Property,1600.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.49,12271.45,0,0,0,0.0,New Property,2844.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.5,29166.67,0,0,0,0.0,New Property,1200.0,0,0,0,0,0,Unfurnished,15
+flat,,,3.49,10771.6,0,0,0,0.0,New Property,3240.0,0,0,0,0,0,Unfurnished,15
+flat,,,4.99,24341.46,0,0,0,0.0,New Property,2050.0,0,0,0,0,0,Unfurnished,15
+flat,,,10.42,34733.33,0,0,0,0.0,New Property,3000.0,0,0,0,0,0,Unfurnished,15

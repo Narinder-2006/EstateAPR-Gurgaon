@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-01-15T22:36:58.730465",
+  "total_properties": 2983,
+  "duplicates_removed": 4037,
+  "columns": [
+    "raw_html",
+    "raw_text",
+    "property_id",
+    "title",
+    "property_type",
+    "location",
+    "price",
+    "price_per_sqft",
+    "summary",
+    "description",
+    "amenities",
+    "tags",
+    "property_link",
+    "builder",
+    "posted_date"
+  ]
+}
