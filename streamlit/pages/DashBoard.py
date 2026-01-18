@@ -32,7 +32,7 @@ st.markdown("""
 # Sector coordinates mapping
 import json
 
-with open(r"datasets\sector_coordinates.json", "r") as f:
+with open("datasets/sector_coordinates.json", "r") as f:
     sector_coordinates = json.load(f)
 
 
