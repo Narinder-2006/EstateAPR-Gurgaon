@@ -37,8 +37,10 @@ The application is designed to help users:
 - │  
 - ├── Streamlit/
 - │ ├── datasets/
-- │ │ └── gurugram_flats_cleaned.csv
-- │ │
+- │ │ ├── concatinated_flats_data_for _analyzation.csv
+- | | ├── properties _data.csv
+- | | ├── location_data.csv
+- │ │ ├── sector_cordinates.json
 - │ ├── models/
 - │ │ ├── price_prediction_model.pkl
 - │ │ ├── cosine_similarity1.pkl
