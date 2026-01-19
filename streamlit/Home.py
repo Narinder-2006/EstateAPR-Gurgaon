@@ -102,7 +102,7 @@ with col1:
         </div>
     """, unsafe_allow_html=True)
     if st.button("🔍 View Dashboard", key="dash", use_container_width=True):
-        st.switch_page(BASE_DIR /'pages'/'dashBoard.py')
+        st.switch_page(BASE_DIR /'pages'/'DashBoard.py')
 
 with col2:
     st.markdown("""
