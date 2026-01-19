@@ -16,10 +16,11 @@ The application is designed to help users:
 1. Web Scraping of real estate listings  
 2. Data Cleaning & Preprocessing  
 3. Exploratory Data Analysis (EDA)  
-4. Feature Engineering  
-5. Model Training & Evaluation  
-6. Recommendation System using Cosine Similarity  
-7. Streamlit Web Application Deployment  
+4. Feature Engineering
+5. Feature Selection
+6. Model Training & Evaluation  
+7. Recommendation System using Cosine Similarity  
+8. Streamlit Web Application Deployment  
 
 > Note: Only the `Streamlit/` folder is required to run the application.  
 > The `data_processing/` folder documents the complete development pipeline.
@@ -32,22 +33,17 @@ Estate APR Gurugram/
 │
 ├── data_processing/
 │ ├── notebooks/
-│ │ ├── data_extraction.ipynb
-│ │ ├── data_cleaning.ipynb
-│ │ ├── eda.ipynb
-│ │ └── feature_engineering.ipynb
-│ │
-│ ├── raw_data/
-│ └── processed_data/
-│
+│ ├── datasets/ 
+│  
 ├── Streamlit/
 │ ├── datasets/
 │ │ └── gurugram_flats_cleaned.csv
 │ │
 │ ├── models/
 │ │ ├── price_prediction_model.pkl
-│ │ ├── cosine_similarity.pkl
-│ │ └── vectorizer.pkl
+│ │ ├── cosine_similarity1.pkl
+| | |── cosine_similarity2.pkl
+│ │ └── cosine_similarity3.pkl
 │ │
 │ ├── pages/
 │ │ ├── dashboard.py
@@ -100,7 +96,7 @@ Streamlit
 Pickle (model serialization)
 
 👨‍💻 Author
-Viyaan
+Narinder Partap Singh
 B.Tech CSE | Data Science Enthusiast
 NIT Jalandhar
 
