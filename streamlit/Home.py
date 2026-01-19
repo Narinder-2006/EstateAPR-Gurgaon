@@ -3,10 +3,10 @@ import pandas as pd
 import plotly.express as px
 from datetime import datetime
 import time
-
+from config import BASE_DIR
 # Page config
 st.set_page_config(
-    page_title="PropInsight Gurgaon",
+    page_title="EstateAPR Gurgaon",
     page_icon="🏘️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -102,7 +102,7 @@ with col1:
         </div>
     """, unsafe_allow_html=True)
     if st.button("🔍 View Dashboard", key="dash", use_container_width=True):
-        st.switch_page("pages/dashBoard.py")
+        st.switch_page(BASE_DIR/"pages/dashBoard.py")
 
 with col2:
     st.markdown("""
@@ -118,7 +118,7 @@ with col2:
         </div>
     """, unsafe_allow_html=True)
     if st.button("💰 Predict Price", key="pred", use_container_width=True):
-        st.switch_page("pages/Price_Prediction.py")
+        st.switch_page(BASE_DIR/"pages/Price_Prediction.py")
 
 with col3:
     st.markdown("""
@@ -134,7 +134,7 @@ with col3:
         </div>
     """, unsafe_allow_html=True)
     if st.button("🔎 Find Properties", key="rec", use_container_width=True):
-        st.switch_page("pages/Recommendations.py")
+        st.switch_page(BASE_DIR/"pages/Recommendations.py")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
