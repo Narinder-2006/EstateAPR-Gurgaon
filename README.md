@@ -29,31 +29,31 @@ The application is designed to help users:
 
 ## 📂 Project Structure
 
-Estate APR Gurugram/
-│
-├── data_processing/
-│ ├── notebooks/
-│ ├── datasets/ 
-│  
-├── Streamlit/
-│ ├── datasets/
-│ │ └── gurugram_flats_cleaned.csv
-│ │
-│ ├── models/
-│ │ ├── price_prediction_model.pkl
-│ │ ├── cosine_similarity1.pkl
-| | |── cosine_similarity2.pkl
-│ │ └── cosine_similarity3.pkl
-│ │
-│ ├── pages/
-│ │ ├── dashboard.py
-│ │ ├── recommendation.py
-│ │ └── price_prediction.py
-│ │
-│ └── home.py
-│
-├── requirements.txt
-└── README.md
+- Estate APR Gurugram/
+- │
+- ├── data_processing/
+- │ ├── notebooks/
+- │ ├── datasets/ 
+- │  
+- ├── Streamlit/
+- │ ├── datasets/
+- │ │ └── gurugram_flats_cleaned.csv
+- │ │
+- │ ├── models/
+- │ │ ├── price_prediction_model.pkl
+- │ │ ├── cosine_similarity1.pkl
+- | | |── cosine_similarity2.pkl
+- │ │ └── cosine_similarity3.pkl
+- │ │
+- │ ├── pages/
+- │ │ ├── dashboard.py
+- │ │ ├── recommendation.py
+- │ │ └── price_prediction.py
+- │ │
+- │ └── home.py
+- │
+- ├── requirements.txt
+- └── README.md
 
 
 ---
@@ -103,24 +103,3 @@ NIT Jalandhar
 
 ---
 
-## ✅ Final Validation (You’re Doing This RIGHT)
-
-✔ Clean separation of **development vs deployment**  
-✔ Professional multi-page Streamlit app  
-✔ Proper ML assets handling  
-✔ Clear data pipeline  
-✔ README explains **what, why, and how**
-
-This is **internship / resume / GitHub–ready** 💯
-
----
-
-### 🔜 Next Step (When You’re Ready)
-When you say:
-> **“Help me deploy this Streamlit project”**
-
-We’ll:
-- Clean deployment folder
-- Fix paths
-- Deploy on **Streamlit Cloud**
-- Make it shareable 🚀
